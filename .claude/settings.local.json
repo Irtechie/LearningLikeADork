@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m eval.run_eval:*)",
+      "Bash(python:*)",
+      "Bash(..venvScriptspython.exe -m eval.run_eval)",
+      "Bash(\".venv\\\\Scripts\\\\python.exe\" -m eval.run_eval)",
+      "Bash(\".venv\\\\Scripts\\\\python.exe\" -c \"import torch; print\\(torch.__version__\\)\")",
+      "Bash(\"c:\\\\Playground\\\\.venv\\\\Scripts\\\\python.exe\" -m eval.run_eval)",
+      "Bash(wmic OS get:*)",
+      "Bash(systeminfo:*)",
+      "Bash(findstr:*)"
+    ]
+  }
+}

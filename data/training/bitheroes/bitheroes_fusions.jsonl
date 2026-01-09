@@ -1,0 +1,678 @@
+{"instruction": "What role does ProfGak Prof. Gak have?", "input": "", "output": "ProfGak Prof. Gak is a tank familiar."}
+{"instruction": "What abilities does ProfGak Prof. Gak have?", "input": "", "output": "ProfGak Prof. Gak has the abilities: UIPower 20.6% Attack (0SP) Slime Cut (2SP)."}
+{"instruction": "What role does Booty Booty have?", "input": "", "output": "Booty Booty is a dps familiar."}
+{"instruction": "What abilities does Booty Booty have?", "input": "", "output": "Booty Booty has the abilities: UIPower 26% Attack (0SP) Feast (2SP)."}
+{"instruction": "What role does Narchie Narchie have?", "input": "", "output": "Narchie Narchie is a dps familiar."}
+{"instruction": "What abilities does Narchie Narchie have?", "input": "", "output": "Narchie Narchie has the abilities: UIPower 18.4% Attack (0SP) Venom Shot (2SP)."}
+{"instruction": "What role does Jugg Jugg have?", "input": "", "output": "Jugg Jugg is a dps familiar."}
+{"instruction": "What abilities does Jugg Jugg have?", "input": "", "output": "Jugg Jugg has the abilities: UIPower 27.1% Attack (0SP) Impale (2SP)."}
+{"instruction": "What role does Krives Krives have?", "input": "", "output": "Krives Krives is a dps familiar."}
+{"instruction": "What abilities does Krives Krives have?", "input": "", "output": "Krives Krives has the abilities: UIPower 19.5% Attack (0SP) Straight Shot (3SP)."}
+{"instruction": "What role does Naukmo Naukmo have?", "input": "", "output": "Naukmo Naukmo is a tank familiar."}
+{"instruction": "What abilities does Naukmo Naukmo have?", "input": "", "output": "Naukmo Naukmo has the abilities: UIPower 17.3% Attack (0SP) Let 'em Loose (2SP)."}
+{"instruction": "What role does EsSkelegro Es'Skelegro have?", "input": "", "output": "EsSkelegro Es'Skelegro is a tank familiar."}
+{"instruction": "What abilities does EsSkelegro Es'Skelegro have?", "input": "", "output": "EsSkelegro Es'Skelegro has the abilities: UIPower 19.5% Attack (0SP) Bone Smack (2SP)."}
+{"instruction": "What role does Grolum Grolum have?", "input": "", "output": "Grolum Grolum is a dps familiar."}
+{"instruction": "What abilities does Grolum Grolum have?", "input": "", "output": "Grolum Grolum has the abilities: UIPower 21.7% Attack (0SP) Leap Attack (2SP)."}
+{"instruction": "What role does Zammy Zammy have?", "input": "", "output": "Zammy Zammy is a dps familiar."}
+{"instruction": "What abilities does Zammy Zammy have?", "input": "", "output": "Zammy Zammy has the abilities: UIPower 24.9% Attack (0SP) Venom Spit (1SP)."}
+{"instruction": "What role does Saerugg Saerugg have?", "input": "", "output": "Saerugg Saerugg is a tank familiar."}
+{"instruction": "What abilities does Saerugg Saerugg have?", "input": "", "output": "Saerugg Saerugg has the abilities: UIPower 23.8% Attack (0SP) Double Time (2SP)."}
+{"instruction": "What role does AsstOak Asst. Oak have?", "input": "", "output": "AsstOak Asst. Oak is a tank familiar."}
+{"instruction": "What abilities does AsstOak Asst. Oak have?", "input": "", "output": "AsstOak Asst. Oak has the abilities: UIPower 20.6% Attack (0SP) Paper Cut (2SP)."}
+{"instruction": "What role does Immyt Immyt have?", "input": "", "output": "Immyt Immyt is a tank familiar."}
+{"instruction": "What abilities does Immyt Immyt have?", "input": "", "output": "Immyt Immyt has the abilities: UIPower 21.7% Attack (0SP) Impale (1SP)."}
+{"instruction": "What role does Bummih Bummih have?", "input": "", "output": "Bummih Bummih is a dps familiar."}
+{"instruction": "What abilities does Bummih Bummih have?", "input": "", "output": "Bummih Bummih has the abilities: UIPower 20.6% Attack (0SP) Horrify (1SP)."}
+{"instruction": "What role does Vickoo Vickoo have?", "input": "", "output": "Vickoo Vickoo is a dps familiar."}
+{"instruction": "What abilities does Vickoo Vickoo have?", "input": "", "output": "Vickoo Vickoo has the abilities: UIPower 26% Attack (0SP) Cleanse (2SP)."}
+{"instruction": "What role does Saerebrumark Saerebrumark have?", "input": "", "output": "Saerebrumark Saerebrumark is a tank familiar."}
+{"instruction": "What abilities does Saerebrumark Saerebrumark have?", "input": "", "output": "Saerebrumark Saerebrumark has the abilities: UIPower 13.8% Attack (0SP) Pummel (2SP)."}
+{"instruction": "What role does Gorce Gorce have?", "input": "", "output": "Gorce Gorce is a dps familiar."}
+{"instruction": "What abilities does Gorce Gorce have?", "input": "", "output": "Gorce Gorce has the abilities: UIPower 40% Attack (0SP) Leap Attack (2SP)."}
+{"instruction": "What role does Andie Andie have?", "input": "", "output": "Andie Andie is a dps familiar."}
+{"instruction": "What abilities does Andie Andie have?", "input": "", "output": "Andie Andie has the abilities: UIPower 28.9% Ogariov (0SP) Wydanie (1SP)."}
+{"instruction": "What role does Hakcax Hakcax have?", "input": "", "output": "Hakcax Hakcax is a dps familiar."}
+{"instruction": "What abilities does Hakcax Hakcax have?", "input": "", "output": "Hakcax Hakcax has the abilities: UIPower 23.7% Komitetu (0SP) Gardener Flo (1SP)."}
+{"instruction": "What role does Flauris Flauris have?", "input": "", "output": "Flauris Flauris is a dps familiar."}
+{"instruction": "What abilities does Flauris Flauris have?", "input": "", "output": "Flauris Flauris has the abilities: UIPower 26.6% Ogariov (0SP) Wydanie (1SP)."}
+{"instruction": "What role does Nockilizer Nockilizer have?", "input": "", "output": "Nockilizer Nockilizer is a support familiar."}
+{"instruction": "What abilities does Nockilizer Nockilizer have?", "input": "", "output": "Nockilizer Nockilizer has the abilities: UIPower 24.0% Komitetu (0SP) Gardener Flo (1SP), UIPower 39.4% Electron Discharge (0SP) Choc (1SP), UIPower 38.0% Crush (0SP) Ruster (1SP), UIPower 24.8% Boulder cut (0SP) Drainorock (1SP), UIPower 36.8% Dotorch (0SP) Fire Shower (1SP), UIPower 35.6% Slosh (0SP) Safe Bubble (1SP), UIPower 43.3% Overgrowth (0SP) Mud Slap (1SP), UIPower 18.1% Cold Current (0SP) Waterlust (1SP), UIPower 19.4% Tornacut (0SP) Breezenote (1SP)."}
+{"instruction": "What role does Bubbo Bubbo have?", "input": "", "output": "Bubbo Bubbo is a tank familiar."}
+{"instruction": "What abilities does Bubbo Bubbo have?", "input": "", "output": "Bubbo Bubbo has the abilities: UIPower 20% Attack (0SP) Reaping (2SP) Isolate (3SP)."}
+{"instruction": "What role does Melvinsteins Melvinsteins have?", "input": "", "output": "Melvinsteins Melvinsteins is a dps familiar."}
+{"instruction": "What abilities does Melvinsteins Melvinsteins have?", "input": "", "output": "Melvinsteins Melvinsteins has the abilities: UIPower 31.3% Attack (0SP) Beak Slam (1SP) Gobble Gobble (2SP)."}
+{"instruction": "What role does Shrampz Shrampz have?", "input": "", "output": "Shrampz Shrampz is a tank familiar."}
+{"instruction": "What abilities does Shrampz Shrampz have?", "input": "", "output": "Shrampz Shrampz has the abilities: UIPower 17.5% Attack (0SP) Health Stomp (1SP) Earth Slam (2SP)."}
+{"instruction": "What role does BorLan Bor'lan have?", "input": "", "output": "BorLan Bor'lan is a support familiar."}
+{"instruction": "What abilities does BorLan Bor'lan have?", "input": "", "output": "BorLan Bor'lan has the abilities: UIPower 33.8% Attack (0SP) Recharge (1SP) Slime Snipe (2SP)."}
+{"instruction": "What role does Rina Rina have?", "input": "", "output": "Rina Rina is a tank familiar."}
+{"instruction": "What abilities does Rina Rina have?", "input": "", "output": "Rina Rina has the abilities: UIPower 18.8% Attack (0SP) Binary Bite (1SP) Mecha Slam (2SP)."}
+{"instruction": "What role does MrBob Mr. Bob have?", "input": "", "output": "MrBob Mr. Bob is a tank familiar."}
+{"instruction": "What abilities does MrBob Mr. Bob have?", "input": "", "output": "MrBob Mr. Bob has the abilities: UIPower 21.3% Attack (0SP) Barf (1SP) Vomit (2SP)."}
+{"instruction": "What role does NaMan Na'Man have?", "input": "", "output": "NaMan Na'Man is a dps familiar."}
+{"instruction": "What abilities does NaMan Na'Man have?", "input": "", "output": "NaMan Na'Man has the abilities: UIPower 27.5% Attack (0SP) Flame Strike (1SP) Heal (2SP)."}
+{"instruction": "What role does Dillzilla Dillzilla have?", "input": "", "output": "Dillzilla Dillzilla is a tank familiar."}
+{"instruction": "What abilities does Dillzilla Dillzilla have?", "input": "", "output": "Dillzilla Dillzilla has the abilities: UIPower 22.5% Attack (0SP) Hack (1SP) Maim (2SP)."}
+{"instruction": "What role does Grengey Grengey have?", "input": "", "output": "Grengey Grengey is a dps familiar."}
+{"instruction": "What abilities does Grengey Grengey have?", "input": "", "output": "Grengey Grengey has the abilities: UIPower 22.5% Attack (0SP) Snow Barrage (1SP) Cold Heal (2SP)."}
+{"instruction": "What role does Patcho Patcho have?", "input": "", "output": "Patcho Patcho is a dps familiar."}
+{"instruction": "What abilities does Patcho Patcho have?", "input": "", "output": "Patcho Patcho has the abilities: UIPower 35% Attack (0SP) Belly Flop (1SP) Shred (1SP)."}
+{"instruction": "What role does Zirg Zirg have?", "input": "", "output": "Zirg Zirg is a tank familiar."}
+{"instruction": "What abilities does Zirg Zirg have?", "input": "", "output": "Zirg Zirg has the abilities: UIPower 30% Attack (0SP) Crush (1SP) Devour (1SP)."}
+{"instruction": "What role does Stasson Stasson have?", "input": "", "output": "Stasson Stasson is a dps familiar."}
+{"instruction": "What abilities does Stasson Stasson have?", "input": "", "output": "Stasson Stasson has the abilities: UIPower 27.5% Attack (0SP) Snipe (1SP) Pinpoint (2SP)."}
+{"instruction": "What role does Terrump Terrump have?", "input": "", "output": "Terrump Terrump is a dps familiar."}
+{"instruction": "What abilities does Terrump Terrump have?", "input": "", "output": "Terrump Terrump has the abilities: UIPower 21.3% Attack (0SP) Sap (1SP) Terra Bump (1SP)."}
+{"instruction": "What role does Junior Junior have?", "input": "", "output": "Junior Junior is a dps familiar."}
+{"instruction": "What abilities does Junior Junior have?", "input": "", "output": "Junior Junior has the abilities: UIPower 17.5% Attack (0SP) Cane Smack (1SP) Health Stomp (2SP)."}
+{"instruction": "What role does Itra Itra have?", "input": "", "output": "Itra Itra is a tank familiar."}
+{"instruction": "What abilities does Itra Itra have?", "input": "", "output": "Itra Itra has the abilities: UIPower 17.5% Attack (0SP) Arcane Strike (1SP) Illumina (2SP)."}
+{"instruction": "What role does MelvGoon Melv'goon have?", "input": "", "output": "MelvGoon Melv'goon is a dps familiar."}
+{"instruction": "What abilities does MelvGoon Melv'goon have?", "input": "", "output": "MelvGoon Melv'goon has the abilities: UIPower 26.2% Attack (0SP) Bonk! (1SP) Heal Trauma (2SP)."}
+{"instruction": "What role does Bebeguin Bebeguin have?", "input": "", "output": "Bebeguin Bebeguin is a dps familiar."}
+{"instruction": "What abilities does Bebeguin Bebeguin have?", "input": "", "output": "Bebeguin Bebeguin has the abilities: UIPower 26.3% Attack (0SP) Bonk! (1SP) Heal Trauma (2SP)."}
+{"instruction": "What role does Mummite Mummite have?", "input": "", "output": "Mummite Mummite is a tank familiar."}
+{"instruction": "What abilities does Mummite Mummite have?", "input": "", "output": "Mummite Mummite has the abilities: UIPower 27.5% Attack (0SP) Oof! (1SP) Ug! (1SP)."}
+{"instruction": "What role does Dropo Dropo have?", "input": "", "output": "Dropo Dropo is a tank familiar."}
+{"instruction": "What abilities does Dropo Dropo have?", "input": "", "output": "Dropo Dropo has the abilities: UIPower 13.8% Attack (0SP) Cane Smack (1SP) Pogo (1SP)."}
+{"instruction": "What role does Stuvin Stuvin have?", "input": "", "output": "Stuvin Stuvin is a support familiar."}
+{"instruction": "What abilities does Stuvin Stuvin have?", "input": "", "output": "Stuvin Stuvin has the abilities: UIPower 50% Attack (0SP) Inspire (1SP) Gamble (1SP)."}
+{"instruction": "What role does Zingo Zingo have?", "input": "", "output": "Zingo Zingo is a support familiar."}
+{"instruction": "What abilities does Zingo Zingo have?", "input": "", "output": "Zingo Zingo has the abilities: UIPower 38.8% Attack (0SP) Heal (1SP) Magic Strike (1SP)."}
+{"instruction": "What role does Polich Polich have?", "input": "", "output": "Polich Polich is a tank familiar."}
+{"instruction": "What abilities does Polich Polich have?", "input": "", "output": "Polich Polich has the abilities: UIPower 20% Attack (0SP) Resolve (1SP) Pinpoint (1SP)."}
+{"instruction": "What role does Brimber Brimber have?", "input": "", "output": "Brimber Brimber is a tank familiar."}
+{"instruction": "What abilities does Brimber Brimber have?", "input": "", "output": "Brimber Brimber has the abilities: UIPower 15% Attack (0SP) Slam (1SP) Jump (2SP)."}
+{"instruction": "What role does Flurttlez Flurttlez have?", "input": "", "output": "Flurttlez Flurttlez is a tank familiar."}
+{"instruction": "What abilities does Flurttlez Flurttlez have?", "input": "", "output": "Flurttlez Flurttlez has the abilities: UIPower 25% Attack (0SP) Toxicity (1SP) Flamestrike (1SP)."}
+{"instruction": "What role does Findlin Findlin have?", "input": "", "output": "Findlin Findlin is a dps familiar."}
+{"instruction": "What abilities does Findlin Findlin have?", "input": "", "output": "Findlin Findlin has the abilities: UIPower 31.2% Attack (0SP) Healing Light (1SP) Blinding Light (1SP)."}
+{"instruction": "What role does Bnigmane Bnigmane have?", "input": "", "output": "Bnigmane Bnigmane is a tank familiar."}
+{"instruction": "What abilities does Bnigmane Bnigmane have?", "input": "", "output": "Bnigmane Bnigmane has the abilities: UIPower 15.5% Attack (0SP) Restore (1SP) Rage (1SP)."}
+{"instruction": "What role does Saevin Saevin have?", "input": "", "output": "Saevin Saevin is a dps familiar."}
+{"instruction": "What abilities does Saevin Saevin have?", "input": "", "output": "Saevin Saevin has the abilities: UIPower 32.6% Attack (0SP) Shock (1SP) Slimed (1SP)."}
+{"instruction": "What role does Ishirzee Ishirzee have?", "input": "", "output": "Ishirzee Ishirzee is a support familiar."}
+{"instruction": "What abilities does Ishirzee Ishirzee have?", "input": "", "output": "Ishirzee Ishirzee has the abilities: UIPower 14.9% Ganianan (0SP) Frigter (1SP) Gi QQ (2SP)."}
+{"instruction": "What role does Leitridh Leitridh have?", "input": "", "output": "Leitridh Leitridh is a dps familiar."}
+{"instruction": "What abilities does Leitridh Leitridh have?", "input": "", "output": "Leitridh Leitridh has the abilities: UIPower 29% Beondren (0SP) Ramms (1SP) Babeuf (1SP)."}
+{"instruction": "What role does Rillamaz Rillamaz have?", "input": "", "output": "Rillamaz Rillamaz is a tank familiar."}
+{"instruction": "What abilities does Rillamaz Rillamaz have?", "input": "", "output": "Rillamaz Rillamaz has the abilities: UIPower 22.8% Beondren (0SP) Ramms (1SP) Babeuf (2SP)."}
+{"instruction": "What role does Firegath Firegath have?", "input": "", "output": "Firegath Firegath is a support familiar."}
+{"instruction": "What abilities does Firegath Firegath have?", "input": "", "output": "Firegath Firegath has the abilities: UIPower 32.5% Ganianan (0SP) Frigter (1SP) Gi QQ (2SP), UIPower 31.9% Windafor (0SP) Wooshlo (1SP) Tornadalar (1SP), UIPower 25.3% Ecyor (0SP) Helabond (0SP) Frost Armor (2SP), UIPower 32.1% Chill check (0SP) Icyllon (1SP) Icy Crash (2SP), UIPower 32.8% Tornacut (0SP) Tornashield (1SP) Bleeding Wind (2SP), UIPower 46.2% Artillesmack (0SP) Barrageruda (1SP) Heatseeker Chomp (1SP), UIPower 37.2% Floatslap (0SP) Roost (1SP) Tornacut (1SP), UIPower 28.3% Aerial Sparks (0SP) Overcharge (1SP) Taser Walk (2SP), UIPower 32.3% Necroriff (0SP) Skeletune (1SP) Lightning Cleanse (1SP)."}
+{"instruction": "What role does Pengz Pengz have?", "input": "", "output": "Pengz Pengz is a dps familiar."}
+{"instruction": "What abilities does Pengz Pengz have?", "input": "", "output": "Pengz Pengz has the abilities: UIPower 25.5% Attack (0SP) Death Touch (1SP) Cold Heal (2SP) Scythe Swipe (3SP)."}
+{"instruction": "What role does Jemm Jemm have?", "input": "", "output": "Jemm Jemm is a dps familiar."}
+{"instruction": "What abilities does Jemm Jemm have?", "input": "", "output": "Jemm Jemm has the abilities: UIPower 31.9% Attack (0SP) Strike (1SP) Surge (2SP) Sap (3SP)."}
+{"instruction": "What role does Yobo Yobo have?", "input": "", "output": "Yobo Yobo is a tank familiar."}
+{"instruction": "What abilities does Yobo Yobo have?", "input": "", "output": "Yobo Yobo has the abilities: UIPower 30.8% Attack (0SP) Overdrive (1SP) Power Drain (2SP) Giga Chomp (3SP)."}
+{"instruction": "What role does EsSkeletrad Es'Skeletrad have?", "input": "", "output": "EsSkeletrad Es'Skeletrad is a tank familiar."}
+{"instruction": "What abilities does EsSkeletrad Es'Skeletrad have?", "input": "", "output": "EsSkeletrad Es'Skeletrad has the abilities: UIPower 26.6% Attack (0SP) Bone Smack (1SP) Heal (2SP) Grim Barrage (3SP)."}
+{"instruction": "What role does Cuerade Cuerade have?", "input": "", "output": "Cuerade Cuerade is a dps familiar."}
+{"instruction": "What abilities does Cuerade Cuerade have?", "input": "", "output": "Cuerade Cuerade has the abilities: UIPower 28.3% Attack (0SP) Quick Shot (1SP) Dark Pact (2SP) Pinpoint (3SP)."}
+{"instruction": "What role does Squibbo Squibbo have?", "input": "", "output": "Squibbo Squibbo is a support familiar."}
+{"instruction": "What abilities does Squibbo Squibbo have?", "input": "", "output": "Squibbo Squibbo has the abilities: UIPower 46% Attack (0SP) Vivification (1SP) Burning Rage (2SP) Flame Blast (3SP)."}
+{"instruction": "What role does Nosdomdom Nosdomdom have?", "input": "", "output": "Nosdomdom Nosdomdom is a tank familiar."}
+{"instruction": "What abilities does Nosdomdom Nosdomdom have?", "input": "", "output": "Nosdomdom Nosdomdom has the abilities: UIPower 24.4% Attack (0SP) Rip (1SP) Harvest (2SP) Domdom Smash (3SP)."}
+{"instruction": "What role does Quirk Quirk have?", "input": "", "output": "Quirk Quirk is a dps familiar."}
+{"instruction": "What abilities does Quirk Quirk have?", "input": "", "output": "Quirk Quirk has the abilities: UIPower 36.8% Attack (0SP) Noxious Strike (1SP) Regenerate (2SP) Poison Spit (3SP)."}
+{"instruction": "What role does Blargnar Blargnar have?", "input": "", "output": "Blargnar Blargnar is a dps familiar."}
+{"instruction": "What abilities does Blargnar Blargnar have?", "input": "", "output": "Blargnar Blargnar has the abilities: UIPower 28.7% Attack (0SP) Crush (1SP) Chomp (2SP) Body Slam (3SP)."}
+{"instruction": "What role does Gemmroid Gemmroid have?", "input": "", "output": "Gemmroid Gemmroid is a tank familiar."}
+{"instruction": "What abilities does Gemmroid Gemmroid have?", "input": "", "output": "Gemmroid Gemmroid has the abilities: UIPower 26.6% Attack (0SP) Quick Punch (1SP) Flex (2SP) Fury (3SP)."}
+{"instruction": "What role does Trixie Trixie have?", "input": "", "output": "Trixie Trixie is a dps familiar."}
+{"instruction": "What abilities does Trixie Trixie have?", "input": "", "output": "Trixie Trixie has the abilities: UIPower 46.8% Attack (0SP) Intimidate (1SP) Inspire (1SP) Furious Scratch (2SP)."}
+{"instruction": "What role does Warffin Warffin have?", "input": "", "output": "Warffin Warffin is a support familiar."}
+{"instruction": "What abilities does Warffin Warffin have?", "input": "", "output": "Warffin Warffin has the abilities: UIPower 21.3% Attack (0SP) Taste (1SP) Savor (1SP) Slam (2SP)."}
+{"instruction": "What role does KovOr Kov'or have?", "input": "", "output": "KovOr Kov'or is a dps familiar."}
+{"instruction": "What abilities does KovOr Kov'or have?", "input": "", "output": "KovOr Kov'or has the abilities: UIPower 35.1% Attack (0SP) Radiant Strike (1SP) Impale (1SP) Radiant Eruption (2SP)."}
+{"instruction": "What role does Rolace Rolace have?", "input": "", "output": "Rolace Rolace is a tank familiar."}
+{"instruction": "What abilities does Rolace Rolace have?", "input": "", "output": "Rolace Rolace has the abilities: UIPower 19.8% Attack (0SP) Dino Slam (1SP) Chomp (2SP) Healing Slam (2SP)."}
+{"instruction": "What role does Quirinus Quirinus have?", "input": "", "output": "Quirinus Quirinus is a dps familiar."}
+{"instruction": "What abilities does Quirinus Quirinus have?", "input": "", "output": "Quirinus Quirinus has the abilities: UIPower 31.9% Attack (0SP) Magic Strike (1SP) Regenerate (2SP) Bloodlust (3SP)."}
+{"instruction": "What role does Amrul Amrul have?", "input": "", "output": "Amrul Amrul is a dps familiar."}
+{"instruction": "What abilities does Amrul Amrul have?", "input": "", "output": "Amrul Amrul has the abilities: UIPower 34% Attack (0SP) Rancid Recovery (1SP) Bile (1SP) Toxicity (2SP)."}
+{"instruction": "What role does Tealkers Tealkers have?", "input": "", "output": "Tealkers Tealkers is a tank familiar."}
+{"instruction": "What abilities does Tealkers Tealkers have?", "input": "", "output": "Tealkers Tealkers has the abilities: UIPower 25.5% Attack (0SP) Sustain (1SP) Tremor (1SP) Surge (2SP)."}
+{"instruction": "What role does Pargz Pargz have?", "input": "", "output": "Pargz Pargz is a dps familiar."}
+{"instruction": "What abilities does Pargz Pargz have?", "input": "", "output": "Pargz Pargz has the abilities: UIPower 39.6% Attack (0SP) Open Fire (1SP) Bombard (1SP) Snipe (2SP)."}
+{"instruction": "What role does Groger Groger have?", "input": "", "output": "Groger Groger is a support familiar."}
+{"instruction": "What abilities does Groger Groger have?", "input": "", "output": "Groger Groger has the abilities: UIPower 32.9% Attack (0SP) Mojo (1SP) Mumbo Jumbo (1SP) Scythe Swipe (2SP)."}
+{"instruction": "What role does Remmyt Remmyt have?", "input": "", "output": "Remmyt Remmyt is a dps familiar."}
+{"instruction": "What abilities does Remmyt Remmyt have?", "input": "", "output": "Remmyt Remmyt has the abilities: UIPower 46.8% Attack (0SP) Intimidation (1SP) Inspire (1SP) Scratch (2SP)."}
+{"instruction": "What role does Minlim Minlim have?", "input": "", "output": "Minlim Minlim is a dps familiar."}
+{"instruction": "What abilities does Minlim Minlim have?", "input": "", "output": "Minlim Minlim has the abilities: UIPower 42.5% Attack (0SP) Chomp (1SP) Slice (1SP) Devour (2SP)."}
+{"instruction": "What role does Jacked Jacked have?", "input": "", "output": "Jacked Jacked is a dps familiar."}
+{"instruction": "What abilities does Jacked Jacked have?", "input": "", "output": "Jacked Jacked has the abilities: UIPower 38.3% Attack (0SP) Close Quarters (1SP) Collateral Damage (1SP) Mutiny (2SP)."}
+{"instruction": "What role does Ulairius Úlairius have?", "input": "", "output": "Ulairius Úlairius is a tank familiar."}
+{"instruction": "What abilities does Ulairius Úlairius have?", "input": "", "output": "Ulairius Úlairius has the abilities: UIPower 25.5% Attack (0SP) Crush (1SP) Death Touch (1SP)."}
+{"instruction": "What role does Cheb Cheb have?", "input": "", "output": "Cheb Cheb is a dps familiar."}
+{"instruction": "What abilities does Cheb Cheb have?", "input": "", "output": "Cheb Cheb has the abilities: UIPower 32.6% Attack (0SP) Chomp (1SP) Devour (1SP) Regenerate (2SP)."}
+{"instruction": "What role does Rogomz Rogomz have?", "input": "", "output": "Rogomz Rogomz is a tank familiar."}
+{"instruction": "What abilities does Rogomz Rogomz have?", "input": "", "output": "Rogomz Rogomz has the abilities: UIPower 25.5% Attack (0SP) Power Drain (1SP) Recharge (1SP) Cheap Shot (2SP)."}
+{"instruction": "What role does Moboz Moboz have?", "input": "", "output": "Moboz Moboz is a dps familiar."}
+{"instruction": "What abilities does Moboz Moboz have?", "input": "", "output": "Moboz Moboz has the abilities: UIPower 35.4% Attack (0SP) Bonk! (1SP) Pounce (1SP) Gamble (2SP)."}
+{"instruction": "What role does Loghir Loghir have?", "input": "", "output": "Loghir Loghir is a dps familiar."}
+{"instruction": "What abilities does Loghir Loghir have?", "input": "", "output": "Loghir Loghir has the abilities: UIPower 32.6% Attack (0SP) Hack (1SP) Impale (1SP) Maim (2SP)."}
+{"instruction": "What role does RoboBuddy20 RoboBuddy 2.0 have?", "input": "", "output": "RoboBuddy20 RoboBuddy 2.0 is a dps familiar."}
+{"instruction": "What abilities does RoboBuddy20 RoboBuddy 2.0 have?", "input": "", "output": "RoboBuddy20 RoboBuddy 2.0 has the abilities: UIPower 34.0% Attack (0SP) Rage (1SP) Slam (1SP) Overdrive (2SP)."}
+{"instruction": "What role does Winslobo Winslobo have?", "input": "", "output": "Winslobo Winslobo is a tank familiar."}
+{"instruction": "What abilities does Winslobo Winslobo have?", "input": "", "output": "Winslobo Winslobo has the abilities: UIPower 14.2% Attack (0SP) Cane Smack (1SP) Restore (1SP)."}
+{"instruction": "What role does Glubboz Glubboz have?", "input": "", "output": "Glubboz Glubboz is a dps familiar."}
+{"instruction": "What abilities does Glubboz Glubboz have?", "input": "", "output": "Glubboz Glubboz has the abilities: UIPower 42.5% Attack (0SP) Infect (1SP) Ooze (2SP) Putrefy (3SP)."}
+{"instruction": "What role does Xandaire Xandaire have?", "input": "", "output": "Xandaire Xandaire is a tank familiar."}
+{"instruction": "What abilities does Xandaire Xandaire have?", "input": "", "output": "Xandaire Xandaire has the abilities: UIPower 35.4% Attack (0SP) Smash (1SP) Reconstitute (1SP) Strike (2SP)."}
+{"instruction": "What role does Scort Scort have?", "input": "", "output": "Scort Scort is a tank familiar."}
+{"instruction": "What abilities does Scort Scort have?", "input": "", "output": "Scort Scort has the abilities: UIPower 31.9% Attack (0SP) Life Steal (1SP) Resolve (1SP) Impale (2SP)."}
+{"instruction": "What role does Gelbos Gelbos have?", "input": "", "output": "Gelbos Gelbos is a dps familiar."}
+{"instruction": "What abilities does Gelbos Gelbos have?", "input": "", "output": "Gelbos Gelbos has the abilities: UIPower 28.3% Attack (0SP) Beam (1SP) Strike (1SP) Eliminate (2SP)."}
+{"instruction": "What role does Googamarmz Googamarmz have?", "input": "", "output": "Googamarmz Googamarmz is a dps familiar."}
+{"instruction": "What abilities does Googamarmz Googamarmz have?", "input": "", "output": "Googamarmz Googamarmz has the abilities: UIPower 42.5% Attack (0SP) Assault (1SP) Healing Light (1SP) Magic Strike (2SP)."}
+{"instruction": "What role does TriloBros TriloBros have?", "input": "", "output": "TriloBros TriloBros is a dps familiar."}
+{"instruction": "What abilities does TriloBros TriloBros have?", "input": "", "output": "TriloBros TriloBros has the abilities: UIPower 28.3% Attack (0SP) Crush (1SP) Restore (1SP) Bombard (2SP)."}
+{"instruction": "What role does Grumber Grumber have?", "input": "", "output": "Grumber Grumber is a tank familiar."}
+{"instruction": "What abilities does Grumber Grumber have?", "input": "", "output": "Grumber Grumber has the abilities: UIPower 38.2% Attack (0SP) Avidity (1SP) Vivification (1SP) Resolve (2SP)."}
+{"instruction": "What role does Sproulor Sproulor have?", "input": "", "output": "Sproulor Sproulor is a dps familiar."}
+{"instruction": "What abilities does Sproulor Sproulor have?", "input": "", "output": "Sproulor Sproulor has the abilities: UIPower 36.8% Attack (0SP) Bite (1SP) Execute (1SP) Strike (2SP)."}
+{"instruction": "What role does Flunder Flunder have?", "input": "", "output": "Flunder Flunder is a dps familiar."}
+{"instruction": "What abilities does Flunder Flunder have?", "input": "", "output": "Flunder Flunder has the abilities: UIPower 56.6% Attack (0SP) Pummel (1SP) Swing (1SP) Assault (2SP)."}
+{"instruction": "What role does Zahla Zahla have?", "input": "", "output": "Zahla Zahla is a tank familiar."}
+{"instruction": "What abilities does Zahla Zahla have?", "input": "", "output": "Zahla Zahla has the abilities: UIPower 28.3% Slash (0SP) Resolve (0SP) Tremor (1SP) Cleave (1SP)."}
+{"instruction": "What role does Capori Capori have?", "input": "", "output": "Capori Capori is a support familiar."}
+{"instruction": "What abilities does Capori Capori have?", "input": "", "output": "Capori Capori has the abilities: UIPower 32.6% Attack (0SP) Heal (0SP) Bonk! (1SP) Hard Headed (2SP)."}
+{"instruction": "What role does Paula Paula have?", "input": "", "output": "Paula Paula is a dps familiar."}
+{"instruction": "What abilities does Paula Paula have?", "input": "", "output": "Paula Paula has the abilities: UIPower 25.5% Strike (0SP) Strike (1SP) Strike (2SP) Strike (3SP)."}
+{"instruction": "What role does Gakgo Gakgo have?", "input": "", "output": "Gakgo Gakgo is a tank familiar."}
+{"instruction": "What abilities does Gakgo Gakgo have?", "input": "", "output": "Gakgo Gakgo has the abilities: UIPower 26.9% Resolve (0SP) Harvest (1SP) Poison Spit (3SP) Isolate (2SP)."}
+{"instruction": "What role does Encherzog Encherzog have?", "input": "", "output": "Encherzog Encherzog is a dps familiar."}
+{"instruction": "What abilities does Encherzog Encherzog have?", "input": "", "output": "Encherzog Encherzog has the abilities: UIPower 35.4% Slice (0SP) Execute (1SP) Eliminate (1SP) Harvest (2SP)."}
+{"instruction": "What role does Theraros Theraros have?", "input": "", "output": "Theraros Theraros is a tank familiar."}
+{"instruction": "What abilities does Theraros Theraros have?", "input": "", "output": "Theraros Theraros has the abilities: UIPower 40.9% Gottinga (0SP) Mandeler (1SP) Stuffenator (1SP) Milich (2SP)."}
+{"instruction": "What role does Tearios Tearios have?", "input": "", "output": "Tearios Tearios is a support familiar."}
+{"instruction": "What abilities does Tearios Tearios have?", "input": "", "output": "Tearios Tearios has the abilities: UIPower 43.2% Harfud (0SP) Strongabell (1SP) Galanator (2SP) Distribbuer (2SP)."}
+{"instruction": "What role does Jurbostamp Jurbostamp have?", "input": "", "output": "Jurbostamp Jurbostamp is a dps familiar."}
+{"instruction": "What abilities does Jurbostamp Jurbostamp have?", "input": "", "output": "Jurbostamp Jurbostamp has the abilities: UIPower 35.5% Gottinga (0SP) Mandeler (1SP) Stuffenator (2SP) Milich (3SP)."}
+{"instruction": "What role does Golf Golf have?", "input": "", "output": "Golf Golf is a tank familiar."}
+{"instruction": "What abilities does Golf Golf have?", "input": "", "output": "Golf Golf has the abilities: UIPower 17.8% Harfud (0SP) Strongabell (0SP) Galantor (1SP) Distribbuer (2SP), UIPower 22.4% Airdry (0SP) Tornashield (1SP) Killdraft (2SP) Hurrkayn (2SP), UIPower 35.3% Illuminum (0SP) Arc Bolt (1SP) Destract (1SP) Crackling revenge (2SP), UIPower 30.6% Chill Touch (0SP) Thermalswap (1SP) Flash freeze (2SP) Ice Gaze (3SP), UIPower 23.9% Overcharge (0SP) Ralemolga (1SP) Electron Discharge (2SP) Call of the Storm (3SP), UIPower 35.4% Rockarain (0SP) Vine Grasp (0SP) Muddy Tomb (1SP) Oozescream (2SP), UIPower 20.2% Overcharge (0SP) Static Barrier (0SP) Eyeray (1SP) Static Absorbtion (1SP), UIPower 41.5% Shierking Harmony (0SP) Cutting Duet (0SP) Draining Arpeggio (1SP) Double Flip (2SP), UIPower 19.4% Taladrum (0SP) Rigtarfu (1SP) Munekor (1SP) Buzzzanor (2SP), UIPower 32% Shock Blast (0SP) Slash and Gun (1SP) Overcharge (2SP) Pirate's failure (2SP), UIPower 31,8% Chiiil duuuuuude (0SP) Earth Medicine (1SP) Share the pain (2SP) The CoolGuy Move (3SP)."}
+{"instruction": "What role does Robby Robby have?", "input": "", "output": "Robby Robby is a dps familiar."}
+{"instruction": "What abilities does Robby Robby have?", "input": "", "output": "Robby Robby has the abilities: UIPower 37% Attack (0SP) Terra Punch (1SP) Shockwave (1SP) Recharge (2SP) Rocket Punch (2SP)."}
+{"instruction": "What role does Olxaroth Olxaroth have?", "input": "", "output": "Olxaroth Olxaroth is a tank familiar."}
+{"instruction": "What abilities does Olxaroth Olxaroth have?", "input": "", "output": "Olxaroth Olxaroth has the abilities: UIPower 29.6% Attack (0SP) Cleave (1SP) Death Touch (1SP) Harvest (2SP) Warm Heal (2SP)."}
+{"instruction": "What role does Mimeido Mimeido have?", "input": "", "output": "Mimeido Mimeido is a dps familiar."}
+{"instruction": "What abilities does Mimeido Mimeido have?", "input": "", "output": "Mimeido Mimeido has the abilities: UIPower 52.9% Attack (0SP) Greed (1SP) Shred (1SP) Wealth (2SP) Avidity (2SP)."}
+{"instruction": "What role does Astally Astally have?", "input": "", "output": "Astally Astally is a tank familiar."}
+{"instruction": "What abilities does Astally Astally have?", "input": "", "output": "Astally Astally has the abilities: UIPower 19% Attack (0SP) Revitalize (1SP) Harvest (1SP) Hard Headed (1SP) Demonic Leap (2SP)."}
+{"instruction": "What role does Beido Beido have?", "input": "", "output": "Beido Beido is a dps familiar."}
+{"instruction": "What abilities does Beido Beido have?", "input": "", "output": "Beido Beido has the abilities: UIPower 33.7% Attack (0SP) Slice (1SP) Eliminate (1SP) Harvest (1SP) Destruction (2SP)."}
+{"instruction": "What role does Wemmbo Wemmbo have?", "input": "", "output": "Wemmbo Wemmbo is a dps familiar."}
+{"instruction": "What abilities does Wemmbo Wemmbo have?", "input": "", "output": "Wemmbo Wemmbo has the abilities: UIPower 47.5% Attack (0SP) Vivification (1SP) Strike (1SP) Pounce (2SP) Sap (2SP)."}
+{"instruction": "What role does Korgz Korgz have?", "input": "", "output": "Korgz Korgz is a dps familiar."}
+{"instruction": "What abilities does Korgz Korgz have?", "input": "", "output": "Korgz Korgz has the abilities: UIPower 39.6% Attack (0SP) Scythe Swipe (1SP) Prismatic Strike (1SP) Prismatic Heal (2SP) Death Touch (2SP)."}
+{"instruction": "What role does Bobodom Bobodom have?", "input": "", "output": "Bobodom Bobodom is a tank familiar."}
+{"instruction": "What abilities does Bobodom Bobodom have?", "input": "", "output": "Bobodom Bobodom has the abilities: UIPower 30.1% Attack (0SP) Slam (1SP) Feast (1SP) Inspire (2SP) Gnaw (2SP)."}
+{"instruction": "What role does Rolesker Rolesker have?", "input": "", "output": "Rolesker Rolesker is a tank familiar."}
+{"instruction": "What abilities does Rolesker Rolesker have?", "input": "", "output": "Rolesker Rolesker has the abilities: UIPower 28.5% Attack (0SP) Sustain (1SP) Tremor (1SP) Soul Tap (1SP) Surge (2SP)."}
+{"instruction": "What role does Remruade Remruade have?", "input": "", "output": "Remruade Remruade is a dps familiar."}
+{"instruction": "What abilities does Remruade Remruade have?", "input": "", "output": "Remruade Remruade has the abilities: UIPower 31.7% Attack (0SP) Quick Shot (1SP) Dark Pact (1SP) Pinpoint (2SP) Restore (2SP)."}
+{"instruction": "What role does CaptWombomz Capt. Wombomz have?", "input": "", "output": "CaptWombomz Capt. Wombomz is a tank familiar."}
+{"instruction": "What abilities does CaptWombomz Capt. Wombomz have?", "input": "", "output": "CaptWombomz Capt. Wombomz has the abilities: UIPower 39.6% Attack (0SP) Mecha Slam (1SP) Terra Bump (1SP) Power Drain (1SP) Overdrive (2SP)."}
+{"instruction": "What role does Gozzy Gozzy have?", "input": "", "output": "Gozzy Gozzy is a tank familiar."}
+{"instruction": "What abilities does Gozzy Gozzy have?", "input": "", "output": "Gozzy Gozzy has the abilities: UIPower 45.9% Attack (0SP) Pounce (1SP) Leap Attack (1SP) Warm Heal (2SP) Wombo (2SP)."}
+{"instruction": "What role does Walkom Walkom have?", "input": "", "output": "Walkom Walkom is a dps familiar."}
+{"instruction": "What abilities does Walkom Walkom have?", "input": "", "output": "Walkom Walkom has the abilities: UIPower 58.9% Attack (0SP) Restore (1SP) Magic Strike (1SP) Gamble (1SP) Execute (2SP)."}
+{"instruction": "What role does Zovilby Zovilby have?", "input": "", "output": "Zovilby Zovilby is a tank familiar."}
+{"instruction": "What abilities does Zovilby Zovilby have?", "input": "", "output": "Zovilby Zovilby has the abilities: UIPower 26.9% Attack (0SP) Restore (1SP) Plunder (1SP) Cheap Shot (1SP) Hard Headed (2SP)."}
+{"instruction": "What role does Svirnel Svirnel have?", "input": "", "output": "Svirnel Svirnel is a dps familiar."}
+{"instruction": "What abilities does Svirnel Svirnel have?", "input": "", "output": "Svirnel Svirnel has the abilities: UIPower 45.9% Attack (0SP) Eliminate (1SP) Overdrive (1SP) Reconstitute (1SP) Destroy (2SP)."}
+{"instruction": "What role does Cloubin Cloubin have?", "input": "", "output": "Cloubin Cloubin is a tank familiar."}
+{"instruction": "What abilities does Cloubin Cloubin have?", "input": "", "output": "Cloubin Cloubin has the abilities: UIPower 42.1% Attack (0SP) Resolve (1SP) Head Bump (1SP) Slam (1SP) Heal (2SP)."}
+{"instruction": "What role does Columbosim Columbosim have?", "input": "", "output": "Columbosim Columbosim is a tank familiar."}
+{"instruction": "What abilities does Columbosim Columbosim have?", "input": "", "output": "Columbosim Columbosim has the abilities: UIPower 31.7% Attack (0SP) Execute (1SP) Eliminate (1SP) Strike (1SP) Heal (2SP)."}
+{"instruction": "What role does Gengie Gengie have?", "input": "", "output": "Gengie Gengie is a dps familiar."}
+{"instruction": "What abilities does Gengie Gengie have?", "input": "", "output": "Gengie Gengie has the abilities: UIPower 26.2% Attack (0SP) Resolve (0SP) Scratch (1SP) Hard Headed (1SP) Execute (1SP)."}
+{"instruction": "What role does Gorbundo Gorbundo have?", "input": "", "output": "Gorbundo Gorbundo is a tank familiar."}
+{"instruction": "What abilities does Gorbundo Gorbundo have?", "input": "", "output": "Gorbundo Gorbundo has the abilities: UIPower 55.4% Slam (0SP) Resolve (0SP) Destroy (1SP) Shockwave (1SP) Earth Slam (1SP) Recharge (2SP)."}
+{"instruction": "What role does Skubby Skubby[5] have?", "input": "", "output": "Skubby Skubby[5] is a dps familiar."}
+{"instruction": "What abilities does Skubby Skubby[5] have?", "input": "", "output": "Skubby Skubby[5] has the abilities: UIPower 45.9% Scratch (0SP) Strike (1SP) Reconstitute (1SP) Restore (1SP) Fire Blast (2SP)."}
+{"instruction": "What role does Rvirnan Rvirnan [6] have?", "input": "", "output": "Rvirnan Rvirnan [6] is a dps familiar."}
+{"instruction": "What abilities does Rvirnan Rvirnan [6] have?", "input": "", "output": "Rvirnan Rvirnan [6] has the abilities: UIPower 39.6% Eliminate (0SP) Crush (1SP) Overdrive (1SP) Fire Blast (4SP) Destroy (2SP)."}
+{"instruction": "What role does X4Happuff X4-Happuff have?", "input": "", "output": "X4Happuff X4-Happuff is a dps familiar."}
+{"instruction": "What abilities does X4Happuff X4-Happuff have?", "input": "", "output": "X4Happuff X4-Happuff has the abilities: UIPower 58.9% Terra Bump (0SP) Fire Blast (1SP) Power Drain (2SP) Warm Heal (1SP) Infect (2SP)."}
+{"instruction": "What role does Gobelux Gobelux[5] have?", "input": "", "output": "Gobelux Gobelux[5] is a dps familiar."}
+{"instruction": "What abilities does Gobelux Gobelux[5] have?", "input": "", "output": "Gobelux Gobelux[5] has the abilities: UIPower 39.2% Minzigora (0SP) Srraguer (1SP) QQG (1SP) Skrak (1SP) Sepuki (2SP)."}
+{"instruction": "What role does Feodebius Feodebius have?", "input": "", "output": "Feodebius Feodebius is a bait familiar."}
+{"instruction": "What abilities does Feodebius Feodebius have?", "input": "", "output": "Feodebius Feodebius has the abilities: UIPower 70.5% Fat Mortero (0SP) Helabond (0SP) Shilfa (1SP) Tippeti (2SP) Tippin (3SP)."}
+{"instruction": "What role does Oladus Oladus have?", "input": "", "output": "Oladus Oladus is a bait familiar."}
+{"instruction": "What abilities does Oladus Oladus have?", "input": "", "output": "Oladus Oladus has the abilities: UIPower 56% Tuparush (0SP) Zaffiron (0SP) Hattil (1SP) Kolle (1SP) Zoilo (2SP)."}
+{"instruction": "What role does Ukalis Ukalis have?", "input": "", "output": "Ukalis Ukalis is a dps familiar."}
+{"instruction": "What abilities does Ukalis Ukalis have?", "input": "", "output": "Ukalis Ukalis has the abilities: UIPower 35.8% Minzigora (0SP) Soler (1SP) Murmis (1SP) Bartertown (2SP) Ganadox (3SP)."}
+{"instruction": "What role does GobbyRanger Gobby Ranger[5] have?", "input": "", "output": "GobbyRanger Gobby Ranger[5] is a dps familiar."}
+{"instruction": "What abilities does GobbyRanger Gobby Ranger[5] have?", "input": "", "output": "GobbyRanger Gobby Ranger[5] has the abilities: UIPower 31% Minzigora (0SP) Srraguer (0SP) QQG (1SP) Skrak (2SP) Sepuki (3SP)."}
+{"instruction": "What role does Danelumbus Danelumbus have?", "input": "", "output": "Danelumbus Danelumbus is a tank familiar."}
+{"instruction": "What abilities does Danelumbus Danelumbus have?", "input": "", "output": "Danelumbus Danelumbus has the abilities: UIPower 37.7% Tupurush (0SP) Zaffiron (0SP) Hattil (1SP) Kulle (2SP) Zoilo (3SP)."}
+{"instruction": "What role does Demetra Demetra have?", "input": "", "output": "Demetra Demetra is a dps familiar."}
+{"instruction": "What abilities does Demetra Demetra have?", "input": "", "output": "Demetra Demetra has the abilities: UIPower 46.6% Fat Mortero (0SP) Helabond (0SP) Shilfa (1SP) Tippeti (2SP) Tippin (3SP)."}
+{"instruction": "What role does Vedalon Vedalon have?", "input": "", "output": "Vedalon Vedalon is a dps familiar."}
+{"instruction": "What abilities does Vedalon Vedalon have?", "input": "", "output": "Vedalon Vedalon has the abilities: UIPower 43.3% Minzigora (0SP) Soler (1SP) Murmis (1SP) Bartertown (2SP) Ganadox (3SP), UIPower 43.8% Melting wave (0SP) Tor gate (1SP) Slammo (1SP) Magma Rain (2SP) Obliteratum (3SP)."}
+{"instruction": "What role does Jeevus Jeevus have?", "input": "", "output": "Jeevus Jeevus is a support familiar."}
+{"instruction": "What abilities does Jeevus Jeevus have?", "input": "", "output": "Jeevus Jeevus has the abilities: UIPower 35.7% Icyllon (0SP) Gale (0SP) Quench (1SP) Engulf (2SP) Draining Tide (3SP), UIPower 56.0% Breathafor (0SP) Crushing wind (1SP) Eulombo (1SP) Typhoooon (2SP) Rippadar (3SP), UIPower 51.9% Minzigora (0SP) Srraguer (0SP) QQG (1SP) Skrak (1SP) Sepuki (2SP), UIPower 56.4% Recoflame (0SP) Stinging Strike (1SP) Slammo (1SP) Fire tomb (2SP) Obliterating Flames (3SP), UIPower 36.2% Thunderbolt (0SP) Lightning Cleanse (1SP) Aerial Sparks (1SP) Static Barrier (2SP) Restorashock (3SP)."}
+{"instruction": "What role does Socragur Socragur have?", "input": "", "output": "Socragur Socragur is a dps familiar."}
+{"instruction": "What abilities does Socragur Socragur have?", "input": "", "output": "Socragur Socragur has the abilities: UIPower 34.2% Bitterbite (0SP) Slirock (1SP) Overgrowth (2SP) Oozescream (2SP) Double-edge (3SP)."}
+{"instruction": "What role does Firulino Firulino[5] have?", "input": "", "output": "Firulino Firulino[5] is a dps familiar."}
+{"instruction": "What abilities does Firulino Firulino[5] have?", "input": "", "output": "Firulino Firulino[5] has the abilities: UIPower 39.7% Flaming fist (0SP) Combust (1SP) Fire pummel (2SP) Fire tomb (2SP) Obliteratum (3SP)."}
+{"instruction": "What role does Haefia Haefia have?", "input": "", "output": "Haefia Haefia is a support familiar."}
+{"instruction": "What abilities does Haefia Haefia have?", "input": "", "output": "Haefia Haefia has the abilities: UIPower 52.0% Razornami (0SP) Wind Wall (1SP) Runic protectamor (1SP) Umbral Seawind (2SP) Breath of the Sea (3SP)."}
+{"instruction": "What role does Bruagaya Bruagaya have?", "input": "", "output": "Bruagaya Bruagaya is a tank familiar."}
+{"instruction": "What abilities does Bruagaya Bruagaya have?", "input": "", "output": "Bruagaya Bruagaya has the abilities: UIPower 44.3% Golem: Leech (0SP) Golem: Barrier (0SP) Golem: Combust (1SP) Golem: Fire Vacuum (2SP) Golem: Consume (3SP)."}
+{"instruction": "What role does Jacklin Jacklin have?", "input": "", "output": "Jacklin Jacklin is a dps familiar."}
+{"instruction": "What abilities does Jacklin Jacklin have?", "input": "", "output": "Jacklin Jacklin has the abilities: UIPower 27.9% Refrigecut (0SP) Glaciar Stance (1SP) Frozen Stinger (1SP) Million frozen stabs (2SP) Ice Age (3SP)."}
+{"instruction": "What role does Solbi Solbi[5] have?", "input": "", "output": "Solbi Solbi[5] is a dps familiar."}
+{"instruction": "What abilities does Solbi Solbi[5] have?", "input": "", "output": "Solbi Solbi[5] has the abilities: UIPower 32.8% Raistrike (0SP) Pillage Heat (1SP) Icerrage (1SP) Avalancharge (2SP) Frostafar (3SP), UIPower 27.2% Kakustrike (0SP) Reattachment (0SP) Nanoprotector (1SP) Wirevine (2SP) Droneroot (2SP), UIPower 40.5% Shoking Performance (0SP) Energizing Solo (0SP) Dootshock (1SP) Harmonic Dice (2SP) Trombstorm (3SP), UIPower 34.8% Prewash Shields (0SP) Rinsing armor (1SP) Cold cycle (1SP) Super Speed Enganged (3SP) Wash and Dry (4SP), UIPower 42.8% Crushing wind (0SP) Tornacut (0SP) Breath Steal (1SP) Windafor (2SP) Bleeding Wind (3SP), UIPower 70% Electrostatic Shock (0SP) Galvanic Barrage (1SP) Fortifying Ward (2SP) Voltium Blitz (2SP) Blessing Sacrifice (3SP), UIPower 24% Renewal Water (0SP) Searing Storm (1SP) Vitality Surge (2SP) Fortitude (3SP) Astral Ensurance (4SP), UIPower 21.2% Distribushock (0SP) Thundersnap (1SP) Cloudrification (1SP) Electrifilter (2SP) Voltaic Reckoning (3SP), UIPower 13.5% Kueik Zhatr (0SP) Krunchtlet (1SP) La'slimpakt (2SP) Wrazz (3SP) Duzt'dev (4SP), UIPower 72% Oxygen Void (0SP) Sparkmor (1SP) Snaping Magma (1SP) Reflamerate (2SP) Plasmastamp (3SP), UIPower 33% Waterspear (0SP) Frosting Arrow (1SP) Crystal Burst (2SP) Hailstorm (3SP) Crystal Boomerang (4SP), UIPower 65,2% High Gravity (0SP) Space Bubble (1SP) Moon-Rocks (1SP) Astro-Catastro (2SP) Cosmic Life (3SP), UIPower 67.6% Astral Rhythm (0SP) Galactic Light (1SP) Psycho-Party (2SP) Rap if Rip (2SP) New Team Ne Rhythm (3SP), UIPower 25.68% Wicked Cuisine (0SP) sLyme Deffense (0SP) Consumed Anger (1SP) Sickening Broth (2SP) unDying Gift (3SP), UIPower 37.06% Hose Punch (0SP) Holy-Dirty Water (1SP) Hook and upperCut (2SP) Bad-Functioning (2SP) Torax Beam (3SP), UIPower 52.2% Improved Spear Thrust!! (0SP) Healing Drill!! (0SP) Drilling Heat!! (1SP) Olympian Technology... (1SP) ...is the Best!! (2SP), UIPower 32.3% Double Trouble (0SP) Windcuits (0SP) Razorflight (1SP) Bleednado (2SP) Cica-BOMB! (2SP), UIPower 20.2% Lighteye (0SP) Protective Storm (0SP) Eskifizomu (1SP) Thunderspell (2SP) Lightnidrainus!! (3SP), UIPower 45.97% Eggsplotion (0SP) Peep-timidation (1SP) Eggspiration (2SP) Chocolate Ration (2SP) Easter Spirit (3SP), UIPower 40.7% Attack (0SP) Slam (1SP) Chomp (1SP) Feast (1SP) Inspire (2SP) Inspire (2SP), UIPower 61% Attack (0SP) Restore (1SP) Execute (1SP) Gamble (1SP) Magic Strike (2SP) Cane Smack (2SP)."}
+{"instruction": "What role does Stratos Stratos have?", "input": "", "output": "Stratos Stratos is a tank familiar."}
+{"instruction": "What abilities does Stratos Stratos have?", "input": "", "output": "Stratos Stratos has the abilities: UIPower 45.2% Attack (0SP) Resolve (0SP) Destroy (1SP) Eliminate (1SP) Heal (1SP) Dark Pact (2SP), UIPower 58.3% Slam (0SP) Resolve (0SP) Destroy (1SP) Shockwave (1SP) Earth Slam (1SP) Recharge (2SP)."}
+{"instruction": "What role does Rigneous Rigneous have?", "input": "", "output": "Rigneous Rigneous is a tank familiar."}
+{"instruction": "What abilities does Rigneous Rigneous have?", "input": "", "output": "Rigneous Rigneous has the abilities: UIPower 50.6% Resolve (0SP) Power Drain (0SP) Scratch (1SP) Destroy (1SP) Harvest (1SP) Eviscerate (2SP)."}
+{"instruction": "What role does Frestir Frestir have?", "input": "", "output": "Frestir Frestir is a support familiar."}
+{"instruction": "What abilities does Frestir Frestir have?", "input": "", "output": "Frestir Frestir has the abilities: UIPower 45% Ladino (0SP) Sancturum (0SP) Lachdananan (1SP) Moreg (1SP) Hwake (1SP) Cafor (3SP)."}
+{"instruction": "What role does Vedalumbus Vedalumbus have?", "input": "", "output": "Vedalumbus Vedalumbus is a dps familiar."}
+{"instruction": "What abilities does Vedalumbus Vedalumbus have?", "input": "", "output": "Vedalumbus Vedalumbus has the abilities: UIPower 43.6% Ladino (0SP) Sancturum (0SP) Lachdananan (1SP) Morog (2SP) Awake (3SP) Cafor (4SP)."}
+{"instruction": "What role does Hunaku Hunaku have?", "input": "", "output": "Hunaku Hunaku is a dps familiar."}
+{"instruction": "What abilities does Hunaku Hunaku have?", "input": "", "output": "Hunaku Hunaku has the abilities: UIPower 41.5% Tempest (0SP) Carve (1SP) Flash freeze (1SP) Demoralize (2SP) Eliminate (3SP) Azimuth (3SP)."}
+{"instruction": "What role does Kimusaba Kimusaba have?", "input": "", "output": "Kimusaba Kimusaba is a bait familiar."}
+{"instruction": "What abilities does Kimusaba Kimusaba have?", "input": "", "output": "Kimusaba Kimusaba has the abilities: UIPower 35.7% Acid Fumes (0SP) Armorwind (1SP) Deep wound (1SP) Breath Steal (2SP) Vein Splitter (3SP) Acidic Wave (3SP), UIPower 76.2% Nordic Revenge (0SP) Lightning Dragon (0SP) Thunder Clap (1SP) Ragnarok's Fury (1SP) Rolling Shock (2SP) Spark Pummel (3SP), UIPower 19.8% Transference (0SP) Deconstruction (0SP) Enhancement (1SP) Containment (2SP) Protection (2SP) Overloading (3SP), UIPower 31.9% Rok'zlid (0SP) Zend'zurx (0SP) Ru'newal (1SP) Kryzp'rier (2SP) Errhupt (3SP) Jeo'danz (4SP), UIPower 19.7% Voltiumquartz (0SP) Bullyzap (1SP) Voltilizer (1SP) Thunder Mortar (2SP) Thunderstriker Call (2SP) Voltaic Burst (3SP), UIPower 35.3% Snap-fire (0SP) Hellfire (1SP) Divine Heat (1SP) Scorching Rave (2SP) Melting Rose (2SP) God of the Heat (3SP), UIPower 76.56% Icicle Rain (0SP) Ice Cold Eyes (1SP) Surf the Iiiiceee (2SP) Cold Improvement (2SP) Tsunami Waves (3SP) Ice Flood (4SP)."}
+{"instruction": "What role does Drek Drek have?", "input": "", "output": "Drek Drek is a dps familiar."}
+{"instruction": "What abilities does Drek Drek have?", "input": "", "output": "Drek Drek has the abilities: UIPower 36.2% Attack (0SP) Isolate (1SP) Bloodlust (1SP)."}
+{"instruction": "What role does Tilge Tilge have?", "input": "", "output": "Tilge Tilge is a dps familiar."}
+{"instruction": "What abilities does Tilge Tilge have?", "input": "", "output": "Tilge Tilge has the abilities: UIPower 21.3% Attack (0SP) Precision Shot (1SP) Eliminate (1SP)."}
+{"instruction": "What role does Velk Velk have?", "input": "", "output": "Velk Velk is a dps familiar."}
+{"instruction": "What abilities does Velk Velk have?", "input": "", "output": "Velk Velk has the abilities: UIPower 52.7% Attack (0SP) Restore (1SP) Magic Strike (1SP) Execute (2SP)."}
+{"instruction": "What role does Garekk Garekk have?", "input": "", "output": "Garekk Garekk is a tank familiar."}
+{"instruction": "What abilities does Garekk Garekk have?", "input": "", "output": "Garekk Garekk has the abilities: UIPower 15.6% Attack (0SP) Soul Steal (1SP) Isolate (1SP) Strike (2SP)."}
+{"instruction": "What role does Torlag Torlag have?", "input": "", "output": "Torlag Torlag is a dps familiar."}
+{"instruction": "What abilities does Torlag Torlag have?", "input": "", "output": "Torlag Torlag has the abilities: UIPower 50.7% Attack (0SP) Healing Slam (1SP) Assault (1SP) Earth Slam (2SP) Strike (2SP)."}
+{"instruction": "What role does Yorlag Yorlag have?", "input": "", "output": "Yorlag Yorlag is a dps familiar."}
+{"instruction": "What abilities does Yorlag Yorlag have?", "input": "", "output": "Yorlag Yorlag has the abilities: UIPower 31.7% Attack (0SP) Rage (1SP) Smash (1SP) Earth Slam (2SP) Healing Slam (2SP)."}
+{"instruction": "What role does Gorlag Gorlag have?", "input": "", "output": "Gorlag Gorlag is a tank familiar."}
+{"instruction": "What abilities does Gorlag Gorlag have?", "input": "", "output": "Gorlag Gorlag has the abilities: UIPower 11.1% Attack (0SP) Tremor (1SP) Healing Slam (1SP) Earth Slam (2SP) Assault (2SP)."}
+{"instruction": "What role does Meaty Meaty have?", "input": "", "output": "Meaty Meaty is a tank familiar."}
+{"instruction": "What abilities does Meaty Meaty have?", "input": "", "output": "Meaty Meaty has the abilities: UIPower 3.2% Attack (0SP) Barf (1SP) Sustain (1SP) Ooze (1SP) Revitalize (1SP)."}
+{"instruction": "What role does Ergos Ergos have?", "input": "", "output": "Ergos Ergos is a tank familiar."}
+{"instruction": "What abilities does Ergos Ergos have?", "input": "", "output": "Ergos Ergos has the abilities: UIPower 12.5% Attack (0SP) Isolate (1SP) Paper Cut (2SP)."}
+{"instruction": "What role does Clavid Clavid have?", "input": "", "output": "Clavid Clavid is a dps familiar."}
+{"instruction": "What abilities does Clavid Clavid have?", "input": "", "output": "Clavid Clavid has the abilities: UIPower 45.3% Attack (0SP) Heal (1SP) Magic Strike (1SP) Flame Burst (2SP)."}
+{"instruction": "What role does Omo Omo have?", "input": "", "output": "Omo Omo is a dps familiar."}
+{"instruction": "What abilities does Omo Omo have?", "input": "", "output": "Omo Omo has the abilities: UIPower 41.0% Attack (0SP) Warm Heal (1SP) Pogo (1SP) Cane Smack (2SP)."}
+{"instruction": "What role does Zorgim Zorgim have?", "input": "", "output": "Zorgim Zorgim is a dps familiar."}
+{"instruction": "What abilities does Zorgim Zorgim have?", "input": "", "output": "Zorgim Zorgim has the abilities: UIPower 39.6% Attack (0SP) Chomp (1SP) Slice (1SP) Devour (2SP)."}
+{"instruction": "What role does D3Mon D3-M0N have?", "input": "", "output": "D3Mon D3-M0N is a dps familiar."}
+{"instruction": "What abilities does D3Mon D3-M0N have?", "input": "", "output": "D3Mon D3-M0N has the abilities: UIPower 38% Attack (0SP) Mecha Slam (1SP) Terra Bump (1SP) Power Drain (2SP) Overdrive (2SP)."}
+{"instruction": "What role does Ragmar Ragmar have?", "input": "", "output": "Ragmar Ragmar is a dps familiar."}
+{"instruction": "What abilities does Ragmar Ragmar have?", "input": "", "output": "Ragmar Ragmar has the abilities: UIPower 53.8% Attack (0SP) Smash (1SP) Leap Attack (1SP) Warm Heal (2SP) Eruption (2SP)."}
+{"instruction": "What role does Drazig Drazig have?", "input": "", "output": "Drazig Drazig is a dps familiar."}
+{"instruction": "What abilities does Drazig Drazig have?", "input": "", "output": "Drazig Drazig has the abilities: UIPower 36.4% Attack (0SP) Execute (1SP) Health Stomp (1SP) Eliminate (2SP) Pounce (2SP)."}
+{"instruction": "What role does Rarzok Rarzok have?", "input": "", "output": "Rarzok Rarzok is a dps familiar."}
+{"instruction": "What abilities does Rarzok Rarzok have?", "input": "", "output": "Rarzok Rarzok has the abilities: UIPower 20.6% Attack (0SP) Death Touch (1SP) Leap Attack (1SP) Dark Pact (2SP) Health Stomp (2SP), UIPower 41.7% Attack (0SP) Eliminate (1SP) Leap Attack (1SP) Smash (1SP) Execute (2SP) Warm Heal (2SP)."}
+{"instruction": "What role does Geove Geove have?", "input": "", "output": "Geove Geove is a tank familiar."}
+{"instruction": "What abilities does Geove Geove have?", "input": "", "output": "Geove Geove has the abilities: UIPower 25.3% Crush (0SP) Resolve (0SP) Inspire (1SP) Life Steal (1SP) Eliminate (1SP)."}
+{"instruction": "What role does Melvoo Melvoo have?", "input": "", "output": "Melvoo Melvoo is a tank familiar."}
+{"instruction": "What abilities does Melvoo Melvoo have?", "input": "", "output": "Melvoo Melvoo has the abilities: UIPower 31.7% Attack (0SP) Restore (0SP) Fury (1SP) Slam (1SP) Gamble (2SP)."}
+{"instruction": "What role does Melsson Melsson have?", "input": "", "output": "Melsson Melsson is a dps familiar."}
+{"instruction": "What abilities does Melsson Melsson have?", "input": "", "output": "Melsson Melsson has the abilities: UIPower 15.8% Attack (0SP) Gamble (1SP) Gamble (2SP) Gamble (3SP) Gamble (4SP)."}
+{"instruction": "What role does MachoMadDogMellyMan Macho Mad Dog Melly Man have?", "input": "", "output": "MachoMadDogMellyMan Macho Mad Dog Melly Man is a tank familiar."}
+{"instruction": "What abilities does MachoMadDogMellyMan Macho Mad Dog Melly Man have?", "input": "", "output": "MachoMadDogMellyMan Macho Mad Dog Melly Man has the abilities: UIPower 55.4% Bonk! (0SP) Inspire (0SP) Body Slam (1SP) Pummel (1SP) Crush (2SP)."}
+{"instruction": "What role does Ninjin Ninjin have?", "input": "", "output": "Ninjin Ninjin is a dps familiar."}
+{"instruction": "What abilities does Ninjin Ninjin have?", "input": "", "output": "Ninjin Ninjin has the abilities: UIPower 38% Chop (0SP) Pummel (1SP) Pummel (2SP) Pummel (3SP) Pummel (4SP)."}
+{"instruction": "What role does Melborg Melborg have?", "input": "", "output": "Melborg Melborg is a dps familiar."}
+{"instruction": "What abilities does Melborg Melborg have?", "input": "", "output": "Melborg Melborg has the abilities: UIPower 41.2% Photon Blast (0SP) Megabit Discharge (1SP) Gigawat Beam(1SP) Emp Pulse (1SP) Charge shot (2SP)."}
+{"instruction": "What role does Mervlin Mervlin have?", "input": "", "output": "Mervlin Mervlin is a dps familiar."}
+{"instruction": "What abilities does Mervlin Mervlin have?", "input": "", "output": "Mervlin Mervlin has the abilities: UIPower 41.8% Attack (0SP) Blight (0SP) Reconstitute (1SP) Blinding Light (1SP) Cane Smack (2SP), UIPower 44% Attack (0SP) Cleave (0SP) Body Slam (1SP) Pounce (1SP) Broadside (1SP) Inspire (2SP)."}
+{"instruction": "What role does R2OY R2OY have?", "input": "", "output": "R2OY R2OY is a tank familiar."}
+{"instruction": "What abilities does R2OY R2OY have?", "input": "", "output": "R2OY R2OY has the abilities: UIPower 53.8% Attack (0SP) Health Stomp (0SP) Dino Slam (1SP) Bite (1SP)."}
+{"instruction": "What role does Reaplicator Reaplicator have?", "input": "", "output": "Reaplicator Reaplicator is a dps familiar."}
+{"instruction": "What abilities does Reaplicator Reaplicator have?", "input": "", "output": "Reaplicator Reaplicator has the abilities: UIPower 34% Attack (0SP) Eliminate (0SP) Dark Pact (1SP) Strike (1SP)."}
+{"instruction": "What role does Glarzdos GlarzDos have?", "input": "", "output": "Glarzdos GlarzDos is a bait familiar."}
+{"instruction": "What abilities does Glarzdos GlarzDos have?", "input": "", "output": "Glarzdos GlarzDos has the abilities: UIPower 71.3% Attack (0SP) Reconstitute (0SP) Inspire (1SP) Blinding Light (1SP) Healing Light (1SP)."}
+{"instruction": "What role does Quorg Quorg have?", "input": "", "output": "Quorg Quorg is a support familiar."}
+{"instruction": "What abilities does Quorg Quorg have?", "input": "", "output": "Quorg Quorg has the abilities: UIPower 36.4% Magic Strike (0SP) Regenerate (0SP) Recharge (0SP) Cold Heal (1SP) Defibrillator (2SP)."}
+{"instruction": "What role does Kal9000 Kal 9000 have?", "input": "", "output": "Kal9000 Kal 9000 is a dps familiar."}
+{"instruction": "What abilities does Kal9000 Kal 9000 have?", "input": "", "output": "Kal9000 Kal 9000 has the abilities: UIPower 34.8% Photon Blast (0SP) Dark Eruption (0SP) Slice (1SP) Eliminate (1SP) Destroy (1SP)."}
+{"instruction": "What does it take to make Termbot9000 TermBOT 9000?", "input": "", "output": "Termbot9000 TermBOT 9000 is fused by combining Kal 9000 +."}
+{"instruction": "What role does Termbot9000 TermBOT 9000 have?", "input": "", "output": "Termbot9000 TermBOT 9000 is a support familiar."}
+{"instruction": "What abilities does Termbot9000 TermBOT 9000 have?", "input": "", "output": "Termbot9000 TermBOT 9000 has the abilities: UIPower 74.1% Attack (0SP) Reconstitute (0SP) Resolve (0SP) Slice (1SP) Overdrive (2SP), UIPower 30% Photon Blast (0SP) Regenerate (0SP) Recharge (0SP) Cold Heal (1SP) Eliminate (1SP) Defibrillator (1SP)."}
+{"instruction": "What role does Jormund Jormund have?", "input": "", "output": "Jormund Jormund is a tank familiar."}
+{"instruction": "What abilities does Jormund Jormund have?", "input": "", "output": "Jormund Jormund has the abilities: UIPower 18% Snarg Face (0SP) Herd Call (0SP) Destroy (1SP)."}
+{"instruction": "What role does Melakir Melakir have?", "input": "", "output": "Melakir Melakir is a dps familiar."}
+{"instruction": "What abilities does Melakir Melakir have?", "input": "", "output": "Melakir Melakir has the abilities: UIPower 28.8% Fissure (0SP) Sweeping Blow (1SP) Twin Strikes (2SP)."}
+{"instruction": "What role does Woberleng Woberleng have?", "input": "", "output": "Woberleng Woberleng is a tank familiar."}
+{"instruction": "What abilities does Woberleng Woberleng have?", "input": "", "output": "Woberleng Woberleng has the abilities: UIPower 30.7% Warstrike (0SP) Insanity Prayer (1SP) Vanishing Slash (1SP) Snarg Face (2SP)."}
+{"instruction": "What role does Dullag Dullag have?", "input": "", "output": "Dullag Dullag is a support familiar."}
+{"instruction": "What abilities does Dullag Dullag have?", "input": "", "output": "Dullag Dullag has the abilities: UIPower 31.3% Fissure (0SP) Nordicus (1SP) Whiplash (1SP) Energize (2SP)."}
+{"instruction": "What role does Delong Delong have?", "input": "", "output": "Delong Delong is a dps familiar."}
+{"instruction": "What abilities does Delong Delong have?", "input": "", "output": "Delong Delong has the abilities: UIPower 35.4% Falang Scream (0SP) Evaporate (1SP) Stinging Strike (1SP) Fissure (2SP)."}
+{"instruction": "What role does Thezeron Thezeron have?", "input": "", "output": "Thezeron Thezeron is a support familiar."}
+{"instruction": "What abilities does Thezeron Thezeron have?", "input": "", "output": "Thezeron Thezeron has the abilities: UIPower 24.5% Warstrike (0SP) Vanishing Slash (1SP) Divine Division (1SP) Insanity Prayer (2SP) Fissure (2SP)."}
+{"instruction": "What role does ChedzunAiki Chedzun Aiki have?", "input": "", "output": "ChedzunAiki Chedzun Aiki is a dps familiar."}
+{"instruction": "What abilities does ChedzunAiki Chedzun Aiki have?", "input": "", "output": "ChedzunAiki Chedzun Aiki has the abilities: UIPower 28% Evaporate (0SP) Stinging Strike (1SP) Warstrike (1SP) Dismember (2SP) Gather Essence (2SP)."}
+{"instruction": "What role does Gyushido Gyushido have?", "input": "", "output": "Gyushido Gyushido is a bait familiar."}
+{"instruction": "What abilities does Gyushido Gyushido have?", "input": "", "output": "Gyushido Gyushido has the abilities: UIPower 61.3% Sweeping Blow (0SP) Absolve (1SP) Dismember (1SP) Slam (2SP) Falang Scream (2SP)."}
+{"instruction": "What role does IgnatusRa Ignatus Ra have?", "input": "", "output": "IgnatusRa Ignatus Ra is a bait familiar."}
+{"instruction": "What abilities does IgnatusRa Ignatus Ra have?", "input": "", "output": "IgnatusRa Ignatus Ra has the abilities: UIPower 71.5% Dismember (0SP) Nordicus (0SP) Falang Scream (1SP) Fissure (1SP) Evaporate (2SP) Needle Vamp (3SP)."}
+{"instruction": "What role does Crius Crius have?", "input": "", "output": "Crius Crius is a dps familiar."}
+{"instruction": "What abilities does Crius Crius have?", "input": "", "output": "Crius Crius has the abilities: UIPower 33% Falang Scream (0SP) Azimuth (1SP) Swamp (2SP)."}
+{"instruction": "What role does Coralus Coralus have?", "input": "", "output": "Coralus Coralus is a tank familiar."}
+{"instruction": "What abilities does Coralus Coralus have?", "input": "", "output": "Coralus Coralus has the abilities: UIPower 26.5% Twin Strikes (0SP) Sink (1SP) Suffocate (2SP)."}
+{"instruction": "What role does Tartaru Tartaru have?", "input": "", "output": "Tartaru Tartaru is a dps familiar."}
+{"instruction": "What abilities does Tartaru Tartaru have?", "input": "", "output": "Tartaru Tartaru has the abilities: UIPower 27% Vanishing Slash (0SP) Flood (1SP) Immerse (1SP) Drench (2SP)."}
+{"instruction": "What role does Cronus Cronus have?", "input": "", "output": "Cronus Cronus is a dps familiar."}
+{"instruction": "What abilities does Cronus Cronus have?", "input": "", "output": "Cronus Cronus has the abilities: UIPower 43% Snarg Face (0SP) Drown (0SP) Overflow (2SP) Plunge (3SP)."}
+{"instruction": "What role does Hestia Hestia have?", "input": "", "output": "Hestia Hestia is a tank familiar."}
+{"instruction": "What abilities does Hestia Hestia have?", "input": "", "output": "Hestia Hestia has the abilities: UIPower 22.4% Snarg Face (0SP) Quench (1SP) Sink (1SP) Slosh (2SP)."}
+{"instruction": "What role does Demeter Demeter have?", "input": "", "output": "Demeter Demeter is a tank familiar."}
+{"instruction": "What abilities does Demeter Demeter have?", "input": "", "output": "Demeter Demeter has the abilities: UIPower 38.5% Evaporate (0SP) Sature (0SP) Rush (1SP) Gush (1SP) Swarm (3SP)."}
+{"instruction": "What role does Porhius Porhius have?", "input": "", "output": "Porhius Porhius is a support familiar."}
+{"instruction": "What abilities does Porhius Porhius have?", "input": "", "output": "Porhius Porhius has the abilities: UIPower 43% Stinging Strike (0SP) Typhoon (1SP) Tsunami (1SP) Slosh (2SP) Cyclone (2SP)."}
+{"instruction": "What role does Krakon Krakon have?", "input": "", "output": "Krakon Krakon is a tank familiar."}
+{"instruction": "What abilities does Krakon Krakon have?", "input": "", "output": "Krakon Krakon has the abilities: UIPower 29% Snarg Face (0SP) Hurricane (0SP) Monsoon (1SP) Gale (2SP) Mistral (2SP), UIPower 41.2% Falang Scream (0SP) Smother (0SP) Tempest (1SP) Engulf (2SP) Surge (2SP) Azimuth (3SP)."}
+{"instruction": "What role does Flarmin Flarmin have?", "input": "", "output": "Flarmin Flarmin is a dps familiar."}
+{"instruction": "What abilities does Flarmin Flarmin have?", "input": "", "output": "Flarmin Flarmin has the abilities: UIPower 30.0% Swingalon (0SP) Flasneeze (1SP) Tor Gate (2SP)."}
+{"instruction": "What role does Salamandra Salamandra have?", "input": "", "output": "Salamandra Salamandra is a dps familiar."}
+{"instruction": "What abilities does Salamandra Salamandra have?", "input": "", "output": "Salamandra Salamandra has the abilities: UIPower 39.7% Exhale (0SP) Fire Spit (1SP) Emberaman (2SP)."}
+{"instruction": "What role does Chimney Chimney have?", "input": "", "output": "Chimney Chimney is a tank familiar."}
+{"instruction": "What abilities does Chimney Chimney have?", "input": "", "output": "Chimney Chimney has the abilities: UIPower 36.6% Smokescreen (0SP) Fire Strike (0SP) Healing smoke (1SP) Warm wind (2SP)."}
+{"instruction": "What role does Firor Firor have?", "input": "", "output": "Firor Firor is a bait familiar."}
+{"instruction": "What abilities does Firor Firor have?", "input": "", "output": "Firor Firor has the abilities: UIPower 50.5% Reconstruct (0SP) Flasneeze (1SP) Warm wind (2SP) Firestrike (2SP)."}
+{"instruction": "What role does Ignitia Ignitia have?", "input": "", "output": "Ignitia Ignitia is a dps familiar."}
+{"instruction": "What abilities does Ignitia Ignitia have?", "input": "", "output": "Ignitia Ignitia has the abilities: UIPower 41.4% Ignitum (0SP) Meteoris (1SP) Harthath (2SP) Magma Rain (3SP)."}
+{"instruction": "What role does Humurum Humurum have?", "input": "", "output": "Humurum Humurum is a dps familiar."}
+{"instruction": "What abilities does Humurum Humurum have?", "input": "", "output": "Humurum Humurum has the abilities: UIPower 38.4% Stinging Strike (0SP) Double Slap (1SP) Erupt (2SP) Lava Throw (2SP) Overwhelm (3SP)."}
+{"instruction": "What role does Pelengy Pelengy have?", "input": "", "output": "Pelengy Pelengy is a support familiar."}
+{"instruction": "What abilities does Pelengy Pelengy have?", "input": "", "output": "Pelengy Pelengy has the abilities: UIPower 46.5% Stinging Strike (0SP) Warming shield (0SP) Scorch shot (1SP) Purged by Fire (2SP) Warmimin (2SP)."}
+{"instruction": "What role does Stanislaos Stanislaos have?", "input": "", "output": "Stanislaos Stanislaos is a dps familiar."}
+{"instruction": "What abilities does Stanislaos Stanislaos have?", "input": "", "output": "Stanislaos Stanislaos has the abilities: UIPower 47.2% Fierylam (0SP) Warmius (1SP) Ovenstorm (1SP) Slammo (2SP) Scorching Boom (2SP), UIPower 49.3% Flaming Gaze (0SP) Tauning strike (0SP) Tantrum (1SP) Recoflame (2SP) Abyssal Fire (2SP) Pummel (4SP), UIPower 20.2% Shocking strike (0SP) Static Thrust (1SP) Call of the Storm (2SP), UIPower 11.6% Reaping (0SP) Airshield (0SP) Ralemolga (1SP), UIPower 33.1% Nordic Revenge (0SP) Ragnarok's Fury (0SP) Lightning Dragon (1SP) Rolling Shock (2SP), UIPower 16.8% Shocking strike (0SP) Choc (0SP) Nisher (1SP) Photovoltaic blast (2SP)."}
+{"instruction": "What role does Bjoern Bjoern have?", "input": "", "output": "Bjoern Bjoern is a tank familiar."}
+{"instruction": "What abilities does Bjoern Bjoern have?", "input": "", "output": "Bjoern Bjoern has the abilities: UIPower 22.3% Vampiric Touch (0SP) Emp Pulse (0SP) Lightning call (1SP) Thunderstorm (2SP)."}
+{"instruction": "What role does Voluspa Voluspa have?", "input": "", "output": "Voluspa Voluspa is a dps familiar."}
+{"instruction": "What abilities does Voluspa Voluspa have?", "input": "", "output": "Voluspa Voluspa has the abilities: UIPower 40.5% Sparking slash (0SP) Thunderbolt (0SP) Choc (1SP) Boltronico (1SP) Call of the Storm (2SP)."}
+{"instruction": "What role does FenRi Fen-Ri have?", "input": "", "output": "FenRi Fen-Ri is a bait familiar."}
+{"instruction": "What abilities does FenRi Fen-Ri have?", "input": "", "output": "FenRi Fen-Ri has the abilities: UIPower 19.4% Corrupt (0SP) Thunderstorm (0SP) Choc (1SP) Crackling revenge (1SP) Parabolic Ion wave (2SP), UIPower 61.7% Thunder Line (0SP) Dreadnaught (0SP) Thunder Rain (1SP) Top Gear (1SP) Thunder Clap (2SP)."}
+{"instruction": "What role does Lerky Lerky have?", "input": "", "output": "Lerky Lerky is a bait familiar."}
+{"instruction": "What abilities does Lerky Lerky have?", "input": "", "output": "Lerky Lerky has the abilities: UIPower 26.7% Million Stabs (0SP) Overdrive (0SP) Spark Stinger (1SP) Rising Storm (2SP) Destiny Chaser (2SP) Judgement Flash (3SP), UIPower 33.3% Re-wind (0SP) Box attack (1SP) A-side/B-side (1SP), UIPower 41.7% K-ching K-ching (0SP) DoubleDisk DoubleHit (0SP) Scratch-Attack (1SP), UIPower 37.7% Totem Seal (0SP) The Party-bot-move (1SP) Spit-a-rhyme (1SP) Mc-cret techinque (2SP), UIPower 21.5% The windmill (0SP) bboy certificated (0SP) Ceredance with Cereboil (1SP) Cere-spins (2SP), UIPower 54.3% Feets on the ground (0SP) 1,2,1,2 (0SP) T.H.E MOVE (1SP) Hit to the Beat (2SP), UIPower 21.5% Air-support (0SP) To the B - To the S (0SP) Volume-up (1SP) Healing Chest-beam (1SP) Fly with me (2SP), UIPower 56.6% Mic-Attack (0SP) Shiny chain (1SP) Sharp vocals (1SP) Bloody wings (2SP) Scharappie-attackie (2SP), UIPower 30.2% Bit by bit (0SP) Bleed that base (0SP) Rapapapa (1SP) Slim-ravey (2SP) Rap-Crow (2SP), UIPower 47.3% Da Golpa (0SP) The p.u.n.c.h line (1SP) Guess who's back (2SP) Rider on the storm (2SP) They call me big-peppa (3SP) B-ou- double s- A (4SP), UIPower 34.5% Slash (0SP) Locate (1SP) Harvest (2SP), UIPower 26% Bonk (0SP) Repair (1SP) Protect (1SP), UIPower 28.7% Dirt to Dirt (0SP) Barrage (1SP) Restrain (1SP) Missile Drain (2SP), UIPower 36.3% Bow (0SP) Tax Essence (1SP) Magnanimous Offer (2SP) Kneel (3SP), UIPower 26.8% Swipe (0SP) Yolk Care (0SP) Claw Treatment (1SP) Surgical Swipes (2SP), UIPower 30.6% Command: Punch (0SP) Command: Shield (1SP) Command: Restrain (2SP) Command: Harvest (3SP) Command: Protect (4SP), UIPower 21.8% Bike Beak (0SP) Run Over (1SP) Precise Spray (1SP) Pale Skull Burst (2SP) More Bullets (3SP), UIPower 66.6% Yolk-Powered Suit (0SP) At All Costs (1SP) The Angry Bolvin (1SP) Tactical Advantage (2SP) Decimate Defenses (3SP), UIPower 80% Yolk Proliferation (0SP) Cell Reconstruction (0SP) Annihilate (1SP) Flesh Transfer (2SP) Bitridium Core (3SP) Mutational Spiral (4SP)."}
+{"instruction": "What role does Gozum Gozum have?", "input": "", "output": "Gozum Gozum is a dps familiar."}
+{"instruction": "What abilities does Gozum Gozum have?", "input": "", "output": "Gozum Gozum has the abilities: UIPower 25% Attack (0SP) Leap Attack (1SP) Bone Smack (2SP)."}
+{"instruction": "What role does Coza Coza have?", "input": "", "output": "Coza Coza is a dps familiar."}
+{"instruction": "What abilities does Coza Coza have?", "input": "", "output": "Coza Coza has the abilities: UIPower 32.6% Attack (0SP) Slam (1SP) Healing Slam (2SP)."}
+{"instruction": "What role does Zoak Zoak have?", "input": "", "output": "Zoak Zoak is a tank familiar."}
+{"instruction": "What abilities does Zoak Zoak have?", "input": "", "output": "Zoak Zoak has the abilities: UIPower 23.8% Attack (0SP) Reaping (1SP) Paper Cut (2SP)."}
+{"instruction": "What role does Zubbo Zubbo have?", "input": "", "output": "Zubbo Zubbo is a tank familiar."}
+{"instruction": "What abilities does Zubbo Zubbo have?", "input": "", "output": "Zubbo Zubbo has the abilities: UIPower 22.6% Attack (0SP) Reaping (1SP) Bombard (1SP) Isolate (2SP)."}
+{"instruction": "What role does Zobblestein Zobblestein have?", "input": "", "output": "Zobblestein Zobblestein is a dps familiar."}
+{"instruction": "What abilities does Zobblestein Zobblestein have?", "input": "", "output": "Zobblestein Zobblestein has the abilities: UIPower 35.3% Attack (0SP) Rake (1SP) Healing Shout (1SP) Gobble (2SP)."}
+{"instruction": "What role does Zina Zina have?", "input": "", "output": "Zina Zina is a tank familiar."}
+{"instruction": "What abilities does Zina Zina have?", "input": "", "output": "Zina Zina has the abilities: UIPower 21.3% Attack (0SP) Consume (1SP) Bite (1SP) Jump (2SP)."}
+{"instruction": "What role does Zagno Zagno have?", "input": "", "output": "Zagno Zagno is a tank familiar."}
+{"instruction": "What abilities does Zagno Zagno have?", "input": "", "output": "Zagno Zagno has the abilities: UIPower 28.4% Attack (0SP) Soul Steal (1SP) Pinpoint (1SP) Crush (2SP) Strike (3SP)."}
+{"instruction": "What role does Bluz Bluz have?", "input": "", "output": "Bluz Bluz is a tank familiar."}
+{"instruction": "What abilities does Bluz Bluz have?", "input": "", "output": "Bluz Bluz has the abilities: UIPower 32.1% Attack (0SP) Infect (1SP) Ooze (1SP) Devour (2SP) Putrefy (3SP)."}
+{"instruction": "What role does Lardoz Lardoz have?", "input": "", "output": "Lardoz Lardoz is a dps familiar."}
+{"instruction": "What abilities does Lardoz Lardoz have?", "input": "", "output": "Lardoz Lardoz has the abilities: UIPower 42% Attack (0SP) Slam (1SP) Barf (1SP) Smash (2SP) Restore (2SP)."}
+{"instruction": "What role does Ninjih Ninjih have?", "input": "", "output": "Ninjih Ninjih is a dps familiar."}
+{"instruction": "What abilities does Ninjih Ninjih have?", "input": "", "output": "Ninjih Ninjih has the abilities: UIPower 23.8% Attack (0SP) Horrify (1SP) Slice (1SP)."}
+{"instruction": "What role does Iva Iva have?", "input": "", "output": "Iva Iva is a dps familiar."}
+{"instruction": "What abilities does Iva Iva have?", "input": "", "output": "Iva Iva has the abilities: UIPower 23.8% Attack (0SP) Life Steal (1SP) Pierce (2SP)."}
+{"instruction": "What role does Penja Penja have?", "input": "", "output": "Penja Penja is a dps familiar."}
+{"instruction": "What abilities does Penja Penja have?", "input": "", "output": "Penja Penja has the abilities: UIPower 25.5% Attack (0SP) Snow Barrage (1SP) Pinpoint (1SP) Cold Heal (2SP)."}
+{"instruction": "What role does Nubbo Nubbo have?", "input": "", "output": "Nubbo Nubbo is a tank familiar."}
+{"instruction": "What abilities does Nubbo Nubbo have?", "input": "", "output": "Nubbo Nubbo has the abilities: UIPower 22.7% Attack (0SP) Boulder Toss (1SP) Rage (2SP) Isolate (3SP)."}
+{"instruction": "What role does Bruja Bruja have?", "input": "", "output": "Bruja Bruja is a tank familiar."}
+{"instruction": "What abilities does Bruja Bruja have?", "input": "", "output": "Bruja Bruja has the abilities: UIPower 31.2% Attack (0SP) Oof! (1SP) Ug! (1SP) Pummel (2SP)."}
+{"instruction": "What role does TheChamps The Champs have?", "input": "", "output": "TheChamps The Champs is a dps familiar."}
+{"instruction": "What abilities does TheChamps The Champs have?", "input": "", "output": "TheChamps The Champs has the abilities: UIPower 35.4% Attack (0SP) Body Slam (1SP) Restore (1SP) Leech (2SP)."}
+{"instruction": "What role does Yenji Yenji have?", "input": "", "output": "Yenji Yenji is a tank familiar."}
+{"instruction": "What abilities does Yenji Yenji have?", "input": "", "output": "Yenji Yenji has the abilities: UIPower 34.4% Attack (0SP) Slam (1SP) Inspire (1SP) Feast (2SP) Gnaw (3SP)."}
+{"instruction": "What role does Drya Drya have?", "input": "", "output": "Drya Drya is a tank familiar."}
+{"instruction": "What abilities does Drya Drya have?", "input": "", "output": "Drya Drya has the abilities: UIPower 29.7% Attack (0SP) Leaf Swarm (1SP) Slice (1SP) Heal (2SP) Rake (2SP)."}
+{"instruction": "What role does TheMaster The Master have?", "input": "", "output": "TheMaster The Master is a dps familiar."}
+{"instruction": "What abilities does TheMaster The Master have?", "input": "", "output": "TheMaster The Master has the abilities: UIPower 30% Attack (0SP) Strike (1SP) Kick (1SP) Cane Smack (2SP) Crush (2SP)."}
+{"instruction": "What role does Trigginz Trigginz have?", "input": "", "output": "Trigginz Trigginz is a tank familiar."}
+{"instruction": "What abilities does Trigginz Trigginz have?", "input": "", "output": "Trigginz Trigginz has the abilities: UIPower 25% Attack (0SP) Rage (1SP) Mangle (1SP)."}
+{"instruction": "What role does Tinsel Tinsel have?", "input": "", "output": "Tinsel Tinsel is a support familiar."}
+{"instruction": "What abilities does Tinsel Tinsel have?", "input": "", "output": "Tinsel Tinsel has the abilities: UIPower 50% Attack (0SP) Inspire (1SP) Regenerate (2SP)."}
+{"instruction": "What role does Holimenz Holimenz have?", "input": "", "output": "Holimenz Holimenz is a dps familiar."}
+{"instruction": "What abilities does Holimenz Holimenz have?", "input": "", "output": "Holimenz Holimenz has the abilities: UIPower 43.9% Attack (0SP) Head Bump (1SP) Regenerate (1SP) Whammy (2SP)."}
+{"instruction": "What role does Chelf Chelf have?", "input": "", "output": "Chelf Chelf is a dps familiar."}
+{"instruction": "What abilities does Chelf Chelf have?", "input": "", "output": "Chelf Chelf has the abilities: UIPower 32.5% Attack (0SP) Chomp (1SP) Bite (1SP) Devour (2SP)."}
+{"instruction": "What role does Kringle Kringle have?", "input": "", "output": "Kringle Kringle is a dps familiar."}
+{"instruction": "What abilities does Kringle Kringle have?", "input": "", "output": "Kringle Kringle has the abilities: UIPower 39.2% Attack (0SP) Skewer (1SP) Impale (1SP) Regenerate (1SP) Dark Eruption (2SP)."}
+{"instruction": "What role does Rudolffin Rudolffin have?", "input": "", "output": "Rudolffin Rudolffin is a dps familiar."}
+{"instruction": "What abilities does Rudolffin Rudolffin have?", "input": "", "output": "Rudolffin Rudolffin has the abilities: UIPower 41.2% Attack (0SP) Eliminate (1SP) Beam (1SP) Flutter (1SP) Heave (2SP)."}
+{"instruction": "What role does Scrooge Scrooge have?", "input": "", "output": "Scrooge Scrooge is a dps familiar."}
+{"instruction": "What abilities does Scrooge Scrooge have?", "input": "", "output": "Scrooge Scrooge has the abilities: UIPower 42.8% Attack (0SP) Close Quarters (1SP) Collateral Damage (1SP) Mutiny (2SP) Gamble (2SP)."}
+{"instruction": "What role does X-M4S X-M4S have?", "input": "", "output": "X-M4S X-M4S is a dps familiar."}
+{"instruction": "What abilities does X-M4S X-M4S have?", "input": "", "output": "X-M4S X-M4S has the abilities: UIPower 38% Attack (0SP) Rage (1SP) Slam (1SP) Overdrive (2SP) Mangle (2SP)."}
+{"instruction": "What role does Gingermic Gingermic have?", "input": "", "output": "Gingermic Gingermic is a dps familiar."}
+{"instruction": "What abilities does Gingermic Gingermic have?", "input": "", "output": "Gingermic Gingermic has the abilities: UIPower 52.9% Attack (0SP) Greed (1SP) Shred (1SP) Spread Heal (2SP) Avarice (2SP)."}
+{"instruction": "What role does Wellon Wellon have?", "input": "", "output": "Wellon Wellon is a tank familiar."}
+{"instruction": "What abilities does Wellon Wellon have?", "input": "", "output": "Wellon Wellon has the abilities: UIPower 21.3% Attack (0SP) Barf (1SP) Gamble (2SP)."}
+{"instruction": "What role does Polly Polly have?", "input": "", "output": "Polly Polly is a tank familiar."}
+{"instruction": "What abilities does Polly Polly have?", "input": "", "output": "Polly Polly has the abilities: UIPower 22.7% Attack (0SP) Resolve (1SP) Pinpoint (1SP) Healing Light (2SP)."}
+{"instruction": "What role does Jopo Jopo have?", "input": "", "output": "Jopo Jopo is a tank familiar."}
+{"instruction": "What abilities does Jopo Jopo have?", "input": "", "output": "Jopo Jopo has the abilities: UIPower 15.6% Attack (0SP) Cane Smack (1SP) Pogo (1SP) Resolve (2SP)."}
+{"instruction": "What role does Shroogle Shroogle have?", "input": "", "output": "Shroogle Shroogle is a dps familiar."}
+{"instruction": "What abilities does Shroogle Shroogle have?", "input": "", "output": "Shroogle Shroogle has the abilities: UIPower 28.3% Attack (0SP) Gamble (1SP) Prismatic Heal (1SP) Shrump Bump (2SP)."}
+{"instruction": "What role does Wensloo Wensloo have?", "input": "", "output": "Wensloo Wensloo is a tank familiar."}
+{"instruction": "What abilities does Wensloo Wensloo have?", "input": "", "output": "Wensloo Wensloo has the abilities: UIPower 14.2% Attack (0SP) Cane Smack (1SP) Restore (1SP) Health Stomp (1SP)."}
+{"instruction": "What role does Gello Gello have?", "input": "", "output": "Gello Gello is a tank familiar."}
+{"instruction": "What abilities does Gello Gello have?", "input": "", "output": "Gello Gello has the abilities: UIPower 29.7% Attack (0SP) Quick Punch (1SP) Reconstitute (1SP) Flex (1SP) Fury (2SP)."}
+{"instruction": "What role does Jellie Jellie have?", "input": "", "output": "Jellie Jellie is a tank familiar."}
+{"instruction": "What abilities does Jellie Jellie have?", "input": "", "output": "Jellie Jellie has the abilities: UIPower 19% Attack (0SP) Restore (1SP) Plunder (1SP) Hard Headed (2SP) Cheap Shot (2SP)."}
+{"instruction": "What role does Jelvins Jelvins have?", "input": "", "output": "Jelvins Jelvins is a dps familiar."}
+{"instruction": "What abilities does Jelvins Jelvins have?", "input": "", "output": "Jelvins Jelvins has the abilities: UIPower 31.7% Attack (0SP) Beam (1SP) Strike (1SP) Cleanse (1SP) Eliminate (2SP)."}
+{"instruction": "What role does Xentho Xentho have?", "input": "", "output": "Xentho Xentho is a tank familiar."}
+{"instruction": "What abilities does Xentho Xentho have?", "input": "", "output": "Xentho Xentho has the abilities: UIPower 39.6% Attack (0SP) Smash (1SP) Reconstitute (1SP) Cleanse (1SP) Strike (2SP)."}
+{"instruction": "What role does PopsiTwins Popsi Twins have?", "input": "", "output": "PopsiTwins Popsi Twins is a dps familiar."}
+{"instruction": "What abilities does PopsiTwins Popsi Twins have?", "input": "", "output": "PopsiTwins Popsi Twins has the abilities: UIPower 12.5% Attack (0SP) Reconstitute (1SP) Flamestrike (1SP)."}
+{"instruction": "What role does Stenon Stenon have?", "input": "", "output": "Stenon Stenon is a dps familiar."}
+{"instruction": "What abilities does Stenon Stenon have?", "input": "", "output": "Stenon Stenon has the abilities: UIPower 40% Attack (0SP) Slam (1SP) Crush (1SP)."}
+{"instruction": "What role does ProfBroccoli Prof Broccoli have?", "input": "", "output": "ProfBroccoli Prof Broccoli is a tank familiar."}
+{"instruction": "What abilities does ProfBroccoli Prof Broccoli have?", "input": "", "output": "ProfBroccoli Prof Broccoli has the abilities: UIPower 20% Attack (0SP) Resolve (0SP) Paper Cut (1SP)."}
+{"instruction": "What role does Elote Elote have?", "input": "", "output": "Elote Elote is a tank familiar."}
+{"instruction": "What abilities does Elote Elote have?", "input": "", "output": "Elote Elote has the abilities: UIPower 22.7% Attack (0SP) Resolve (0SP) Reconstitute (1SP) Pinpoint (1SP)."}
+{"instruction": "What role does Findellow Findellow have?", "input": "", "output": "Findellow Findellow is a dps familiar."}
+{"instruction": "What abilities does Findellow Findellow have?", "input": "", "output": "Findellow Findellow has the abilities: UIPower 28.3% Attack (0SP) Healing Light (1SP) Blinding Light (1SP) Surge (1SP)."}
+{"instruction": "What role does MelvCone Melv'cone have?", "input": "", "output": "MelvCone Melv'cone is a bait familiar."}
+{"instruction": "What abilities does MelvCone Melv'cone have?", "input": "", "output": "MelvCone Melv'cone has the abilities: UIPower 58.1% Attack (0SP) Heal Trauma (1SP) Reconstitute (1SP) Bonk! (2SP)."}
+{"instruction": "What role does Croundy Croundy have?", "input": "", "output": "Croundy Croundy is a bait familiar."}
+{"instruction": "What abilities does Croundy Croundy have?", "input": "", "output": "Croundy Croundy has the abilities: UIPower 71.3% Attack (0SP) Health Stomp (0SP) Heal (0SP) Avidity (1SP) Vivification (2SP)."}
+{"instruction": "What role does Svireal Svireal have?", "input": "", "output": "Svireal Svireal is a dps familiar."}
+{"instruction": "What abilities does Svireal Svireal have?", "input": "", "output": "Svireal Svireal has the abilities: UIPower 44.3% Attack (0SP) Eliminate (0SP) Overdrive (0SP) Reconstitute (1SP) Crush (2SP)."}
+{"instruction": "What role does Chefoz Chefoz have?", "input": "", "output": "Chefoz Chefoz is a dps familiar."}
+{"instruction": "What abilities does Chefoz Chefoz have?", "input": "", "output": "Chefoz Chefoz has the abilities: UIPower 36.4% Attack (0SP) Slam (1SP) Barf (1SP) Smash (2SP) Restore (2SP)."}
+{"instruction": "What role does Wargomyt Wargomyt have?", "input": "", "output": "Wargomyt Wargomyt is a tank familiar."}
+{"instruction": "What abilities does Wargomyt Wargomyt have?", "input": "", "output": "Wargomyt Wargomyt has the abilities: UIPower 22% Snarg Face (0SP) Herd Call (0SP) Karma Force (1SP)."}
+{"instruction": "What role does Pytris Pytris have?", "input": "", "output": "Pytris Pytris is a dps familiar."}
+{"instruction": "What abilities does Pytris Pytris have?", "input": "", "output": "Pytris Pytris has the abilities: UIPower 23.8% Twin Strikes (0SP) Fissure (1SP) Sweeping Blow (2SP)."}
+{"instruction": "What role does Thia Thia have?", "input": "", "output": "Thia Thia is a tank familiar."}
+{"instruction": "What abilities does Thia Thia have?", "input": "", "output": "Thia Thia has the abilities: UIPower 32.5% Falang Scream (0SP) Evaporate (1SP) Stinging Strike (2SP)."}
+{"instruction": "What role does McSadayMon McSaday Mon have?", "input": "", "output": "McSadayMon McSaday Mon is a dps familiar."}
+{"instruction": "What abilities does McSadayMon McSaday Mon have?", "input": "", "output": "McSadayMon McSaday Mon has the abilities: UIPower 38% Vanishing Slash (0SP) Dismember (1SP) Fissure (1SP) Slam (2SP)."}
+{"instruction": "What role does Garwyn Garwyn have?", "input": "", "output": "Garwyn Garwyn is a tank familiar."}
+{"instruction": "What abilities does Garwyn Garwyn have?", "input": "", "output": "Garwyn Garwyn has the abilities: UIPower 37% Snarg Face (0SP) Needle Vamp (1SP) Fissure (1SP) Eclipse (2SP)."}
+{"instruction": "What role does Kheli Kheli have?", "input": "", "output": "Kheli Kheli is a support familiar."}
+{"instruction": "What abilities does Kheli Kheli have?", "input": "", "output": "Kheli Kheli has the abilities: UIPower 28% Snarg Face (0SP) Nordicus (0SP) Insanity Prayer (1SP) Herd Call (1SP)."}
+{"instruction": "What role does LordDaspinor Lord Daspinor have?", "input": "", "output": "LordDaspinor Lord Daspinor is a dps familiar."}
+{"instruction": "What abilities does LordDaspinor Lord Daspinor have?", "input": "", "output": "LordDaspinor Lord Daspinor has the abilities: UIPower 31.2% Evaporate (0SP) Stinging Strike (1SP) Herd Call (1SP) Warstrike (1SP) Vanishing Slash (2SP)."}
+{"instruction": "What role does Ronemax600 Ronemax 600 have?", "input": "", "output": "Ronemax600 Ronemax 600 is a bait familiar."}
+{"instruction": "What abilities does Ronemax600 Ronemax 600 have?", "input": "", "output": "Ronemax600 Ronemax 600 has the abilities: UIPower 64.1% Stinging Strike (0SP) Whiplash (0SP) Gather Essence (1SP) Insanity Prayer (1SP) Needle Vamp (2SP)."}
+{"instruction": "What role does Dagdanos Dagdanos have?", "input": "", "output": "Dagdanos Dagdanos is a dps familiar."}
+{"instruction": "What abilities does Dagdanos Dagdanos have?", "input": "", "output": "Dagdanos Dagdanos has the abilities: UIPower 55% Snarg Face (0SP) Fissure (1SP) Absolve (1SP) Herd Call (2SP) Needle Vamp (2SP), UIPower 45% Falang Scream (0SP) Evaporate (0SP) Conflagrate (1SP) Divine Division (2SP) Eclipse (2SP) Evaporate (3SP), UIPower 30% Illumina (0SP) Sepuki (1SP) Boltronico (1SP), UIPower 12% Vespuchen (0SP) Rigtarfu (1SP) Crush (1SP), UIPower 30% Konstrictor (0SP) Distribbuer (1SP) Gallard (2SP), UIPower 45% Heroic Strike (0SP) Custodire (1SP) Romulus Hand (2SP) Cesar's Will (3SP), UIPower 56% Talos Crush (0SP) Athena's Blessing (1SP) Hades Kiss (2SP) Hestia's Pray (3SP), UIPower 17% Achilles Punch (0SP) Scutum (1SP) Clementia (2SP) Saturn Curse (3SP), UIPower 40% Mars Mercy (0SP) Venus Kiss (1SP) Heroic Smash (2SP) Pluto's Abyss (3SP) Heroic Punishment (4SP), UIPower 20% Apollo's Judgement (0SP) Mars Smash (1SP) Gladiator's Fist (1SP) Jupiter Strike (2SP) Victory Strike (3SP), UIPower 11% Ancient Pray (0SP) Praesidium (1SP) Neptune Smash (1SP) Pluto's Sight (2SP) Gaia's Wind (4SP), UIPower 44% Nox Strike (0SP) Jupiter's Will (1SP) Mercury Wind (3SP) Mars Explosion (3SP) Chaos Hand (4SP) Mercury Strike (4SP)."}
+{"instruction": "What role does Gobbon Gobbon have?", "input": "", "output": "Gobbon Gobbon is a dps familiar."}
+{"instruction": "What abilities does Gobbon Gobbon have?", "input": "", "output": "Gobbon Gobbon has the abilities: UIPower 37% Attack (0SP) Healing Light (1SP) Target (1SP) Scratch (2SP) Fire Blast (2SP)."}
+{"instruction": "What role does Robasson Robasson have?", "input": "", "output": "Robasson Robasson is a dps familiar."}
+{"instruction": "What abilities does Robasson Robasson have?", "input": "", "output": "Robasson Robasson has the abilities: UIPower 26.3% Attack (0SP) Barf (1SP) Rage (1SP)."}
+{"instruction": "What role does Pabot Pabot have?", "input": "", "output": "Pabot Pabot is a dps familiar."}
+{"instruction": "What abilities does Pabot Pabot have?", "input": "", "output": "Pabot Pabot has the abilities: UIPower 36.8% Attack (0SP) Shockwave (1SP) Belly Flop (1SP) Shred (1SP)."}
+{"instruction": "What role does Pobo Pobo have?", "input": "", "output": "Pobo Pobo is a tank familiar."}
+{"instruction": "What abilities does Pobo Pobo have?", "input": "", "output": "Pobo Pobo has the abilities: UIPower 22.7% Attack (0SP) Resolve (1SP) Pinpoint (1SP) Recharge (2SP)."}
+{"instruction": "What role does Raleib Raleib have?", "input": "", "output": "Raleib Raleib is a dps familiar."}
+{"instruction": "What abilities does Raleib Raleib have?", "input": "", "output": "Raleib Raleib has the abilities: UIPower 33.7% Attack (0SP) Recharge (1SP) Slice (1SP) Eliminate (1SP) Destroy (2SP)."}
+{"instruction": "What role does Saereboo Saereboo have?", "input": "", "output": "Saereboo Saereboo is a tank familiar."}
+{"instruction": "What abilities does Saereboo Saereboo have?", "input": "", "output": "Saereboo Saereboo has the abilities: UIPower 15% Attack (0SP) Pummel (1SP) Eliminate (1SP)."}
+{"instruction": "What role does Whoost Whoost have?", "input": "", "output": "Whoost Whoost is a dps familiar."}
+{"instruction": "What abilities does Whoost Whoost have?", "input": "", "output": "Whoost Whoost has the abilities: UIPower 42.5% Attack (0SP) Heal (1SP) Magic Strike (1SP) Assault (1SP)."}
+{"instruction": "What role does Ghosbooboo Ghosbooboo have?", "input": "", "output": "Ghosbooboo Ghosbooboo is a tank familiar."}
+{"instruction": "What abilities does Ghosbooboo Ghosbooboo have?", "input": "", "output": "Ghosbooboo Ghosbooboo has the abilities: UIPower 30.1% Attack (0SP) Rip (1SP) Harvest (1SP) Dark Pact (1SP) Mangle (2SP)."}
+{"instruction": "What role does Blemo Blemo have?", "input": "", "output": "Blemo Blemo is a dps familiar."}
+{"instruction": "What abilities does Blemo Blemo have?", "input": "", "output": "Blemo Blemo has the abilities: UIPower 47.5% Attack (0SP) Bonk! (1SP) Ug! (1SP) Dark Pact (1SP) Oof! (2SP)."}
+{"instruction": "What role does ProfSnack Prof. Snack have?", "input": "", "output": "ProfSnack Prof. Snack is a tank familiar."}
+{"instruction": "What abilities does ProfSnack Prof. Snack have?", "input": "", "output": "ProfSnack Prof. Snack has the abilities: UIPower 12.5% Attack (0SP) Paper Cut (2SP) Feast (1SP)."}
+{"instruction": "What role does Ivub Ivub have?", "input": "", "output": "Ivub Ivub is a support familiar."}
+{"instruction": "What abilities does Ivub Ivub have?", "input": "", "output": "Ivub Ivub has the abilities: UIPower 25% Attack (0SP) Heal (1SP) Life Steal (2SP)."}
+{"instruction": "What role does Fati Fati have?", "input": "", "output": "Fati Fati is a tank familiar."}
+{"instruction": "What abilities does Fati Fati have?", "input": "", "output": "Fati Fati has the abilities: UIPower 39.6% Attack (0SP) Heal (1SP) Slam (1SP) Feast (1SP) Gnaw (2SP)."}
+{"instruction": "What role does Gummy Gummy have?", "input": "", "output": "Gummy Gummy is a tank familiar."}
+{"instruction": "What abilities does Gummy Gummy have?", "input": "", "output": "Gummy Gummy has the abilities: UIPower 29.7% Attack (0SP) Quick Punch (1SP) Flex (1SP) Slam (1SP) Fury (2SP)."}
+{"instruction": "What role does Yemic Yemic have?", "input": "", "output": "Yemic Yemic is a tank familiar."}
+{"instruction": "What abilities does Yemic Yemic have?", "input": "", "output": "Yemic Yemic has the abilities: UIPower 26.9% Attack (0SP) Heal (1SP) Slam (1SP) Feast (1SP) Gnaw (2SP)."}
+{"instruction": "What role does Dryonic Dryonic have?", "input": "", "output": "Dryonic Dryonic is a dps familiar."}
+{"instruction": "What abilities does Dryonic Dryonic have?", "input": "", "output": "Dryonic Dryonic has the abilities: UIPower 36.4% Attack (0SP) Leaf Swarm (1SP) Heal (1SP) Magic Strike (1SP) Vine Barrage (2SP)."}
+{"instruction": "What role does Jebediah Jebediah have?", "input": "", "output": "Jebediah Jebediah is a dps familiar."}
+{"instruction": "What abilities does Jebediah Jebediah have?", "input": "", "output": "Jebediah Jebediah has the abilities: UIPower 34.8% Attack (0SP) Strike (1SP) Pounce (1SP) Jump (1SP) Sap (2SP)."}
+{"instruction": "What role does Zarlock Zarlock have?", "input": "", "output": "Zarlock Zarlock is a tank familiar."}
+{"instruction": "What abilities does Zarlock Zarlock have?", "input": "", "output": "Zarlock Zarlock has the abilities: UIPower 40% Attack (0SP) Resolve (1SP) Feast (1SP) Jump (1SP) Heal (2SP) Dark Pact (2SP)."}
+{"instruction": "What role does Clodius Clodius have?", "input": "", "output": "Clodius Clodius is a dps familiar."}
+{"instruction": "What abilities does Clodius Clodius have?", "input": "", "output": "Clodius Clodius has the abilities: UIPower 42.1% Attack (0SP) Gigawat Beam (1SP) Head Bump (1SP) Slam (1SP) Heal (2SP)."}
+{"instruction": "What role does TheClouz The Clouz have?", "input": "", "output": "TheClouz The Clouz is a dps familiar."}
+{"instruction": "What abilities does TheClouz The Clouz have?", "input": "", "output": "TheClouz The Clouz has the abilities: UIPower 37.5% Attack (0SP) Pounce (1SP) Eliminate (1SP)."}
+{"instruction": "What role does Findolo Findolo have?", "input": "", "output": "Findolo Findolo is a tank familiar."}
+{"instruction": "What abilities does Findolo Findolo have?", "input": "", "output": "Findolo Findolo has the abilities: UIPower 29.7% Attack (0SP) Healing Light (1SP) Blinding Light (1SP) Heal (2SP)."}
+{"instruction": "What role does Brimbino Brimbino have?", "input": "", "output": "Brimbino Brimbino is a dps familiar."}
+{"instruction": "What abilities does Brimbino Brimbino have?", "input": "", "output": "Brimbino Brimbino has the abilities: UIPower 17% Attack (0SP) Slam (1SP) Bombard (1SP) Jump (2SP)."}
+{"instruction": "What role does Googarum Googarum have?", "input": "", "output": "Googarum Googarum is a dps familiar."}
+{"instruction": "What abilities does Googarum Googarum have?", "input": "", "output": "Googarum Googarum has the abilities: UIPower 45% Attack (0SP) Assault (1SP) Healing Light (1SP) Blinding Light (1SP) Magic Strike (2SP)."}
+{"instruction": "What role does Candelardoz Candelardoz have?", "input": "", "output": "Candelardoz Candelardoz is a dps familiar."}
+{"instruction": "What abilities does Candelardoz Candelardoz have?", "input": "", "output": "Candelardoz Candelardoz has the abilities: UIPower 25% Attack (0SP) Flamestrike (1SP) Cheap Shot (1SP)."}
+{"instruction": "What role does Winslar Winslar have?", "input": "", "output": "Winslar Winslar is a tank familiar."}
+{"instruction": "What abilities does Winslar Winslar have?", "input": "", "output": "Winslar Winslar has the abilities: UIPower 14.2% Attack (0SP) Cane Smack (1SP) Restore (1SP) Cheap Shot (2SP)."}
+{"instruction": "What role does Troplo Troplo have?", "input": "", "output": "Troplo Troplo is a dps familiar."}
+{"instruction": "What abilities does Troplo Troplo have?", "input": "", "output": "Troplo Troplo has the abilities: UIPower 35.4% Attack (0SP) Bonk! (1SP) Slam (1SP) Resolve (1SP)."}
+{"instruction": "What role does Svord Svord have?", "input": "", "output": "Svord Svord is a tank familiar."}
+{"instruction": "What abilities does Svord Svord have?", "input": "", "output": "Svord Svord has the abilities: UIPower 20% Attack (0SP) Eliminate (1SP) Feast (1SP) Reconstitute (1SP) Destroy (2SP)."}
+{"instruction": "What role does Duortlez Duortlez have?", "input": "", "output": "Duortlez Duortlez is a dps familiar."}
+{"instruction": "What abilities does Duortlez Duortlez have?", "input": "", "output": "Duortlez Duortlez has the abilities: UIPower 25% Attack (0SP) Toxicity (1SP) Flamestrike (1SP)."}
+{"instruction": "What role does Sproutlings Sproutlings have?", "input": "", "output": "Sproutlings Sproutlings is a tank familiar."}
+{"instruction": "What abilities does Sproutlings Sproutlings have?", "input": "", "output": "Sproutlings Sproutlings has the abilities: UIPower 47.5% Attack (0SP) Bite (1SP) Execute (1SP) Healing Light (1SP) Strike (2SP)."}
+{"instruction": "What role does Gwelvons Gwelvons have?", "input": "", "output": "Gwelvons Gwelvons is a dps familiar."}
+{"instruction": "What abilities does Gwelvons Gwelvons have?", "input": "", "output": "Gwelvons Gwelvons has the abilities: UIPower 31.7% Attack (0SP) Beam (1SP) Strike (1SP) Eliminate (1SP) Cleanse (2SP)."}
+{"instruction": "What role does Twimbo Twimbo have?", "input": "", "output": "Twimbo Twimbo is a dps familiar."}
+{"instruction": "What abilities does Twimbo Twimbo have?", "input": "", "output": "Twimbo Twimbo has the abilities: UIPower 47.5% Attack (0SP) Bonk! (1SP) Ug! (1SP) Oof! (1SP) Dark Pact (2SP)."}
+{"instruction": "What role does Murbi Murbi have?", "input": "", "output": "Murbi Murbi is a tank familiar."}
+{"instruction": "What abilities does Murbi Murbi have?", "input": "", "output": "Murbi Murbi has the abilities: UIPower 28.3% Attack (0SP) Restore (1SP) Rage (1SP) Reconstitue (1SP)."}
+{"instruction": "What role does Peabo Peabo have?", "input": "", "output": "Peabo Peabo is a dps familiar."}
+{"instruction": "What abilities does Peabo Peabo have?", "input": "", "output": "Peabo Peabo has the abilities: UIPower 29.7% Attack (0SP) Resolve (1SP) Pinpoint (1SP) Healing Light (2SP)."}
+{"instruction": "What role does Scubblez Scubblez have?", "input": "", "output": "Scubblez Scubblez is a dps familiar."}
+{"instruction": "What abilities does Scubblez Scubblez have?", "input": "", "output": "Scubblez Scubblez has the abilities: UIPower 34% Attack (0SP) Slimed (1SP) Assault (1SP) Bonk! (1SP)."}
+{"instruction": "What role does X5T34M X5-T34M have?", "input": "", "output": "X5T34M X5-T34M is a dps familiar."}
+{"instruction": "What abilities does X5T34M X5-T34M have?", "input": "", "output": "X5T34M X5-T34M has the abilities: UIPower 50% Pew Pew (0SP) Chaos Cannon (1SP) Target Acquired (1SP) Pummel (1SP) Mecha Slam (2SP) Recharge (2SP)."}
+{"instruction": "What role does Gamby Gamby have?", "input": "", "output": "Gamby Gamby is a support familiar."}
+{"instruction": "What abilities does Gamby Gamby have?", "input": "", "output": "Gamby Gamby has the abilities: UIPower 40% Attack (0SP) Quick Punch (1SP) Healing Slam (1SP) Resolve (1SP) Rage (2SP)."}
+{"instruction": "What role does Marmbo Marmbo have?", "input": "", "output": "Marmbo Marmbo is a dps familiar."}
+{"instruction": "What abilities does Marmbo Marmbo have?", "input": "", "output": "Marmbo Marmbo has the abilities: UIPower 28.3% Attack (0SP) Restore (1SP) Rage (1SP) Slam (2SP)."}
+{"instruction": "What role does Zorgo Zorgo have?", "input": "", "output": "Zorgo Zorgo is a dps familiar."}
+{"instruction": "What abilities does Zorgo Zorgo have?", "input": "", "output": "Zorgo Zorgo has the abilities: UIPower 32.6% Attack (0SP) Resolve (0SP) Bite (1SP) Crush (1SP)."}
+{"instruction": "What role does Tubb005 TUBB-005 have?", "input": "", "output": "Tubb005 TUBB-005 is a tank familiar."}
+{"instruction": "What abilities does Tubb005 TUBB-005 have?", "input": "", "output": "Tubb005 TUBB-005 has the abilities: UIPower 49.1% Attack (0SP) Resolve (1SP) Charge (1SP) Kick (1SP) Cheap Shot (2SP)."}
+{"instruction": "What role does Blumby Blumby have?", "input": "", "output": "Blumby Blumby is a dps familiar."}
+{"instruction": "What abilities does Blumby Blumby have?", "input": "", "output": "Blumby Blumby has the abilities: UIPower 49.1% Attack (0SP) Infect (1SP) Slam (1SP) Devour (?SP) Putrefy (2SP)."}
+{"instruction": "What role does Petti Petti have?", "input": "", "output": "Petti Petti is a dps familiar."}
+{"instruction": "What abilities does Petti Petti have?", "input": "", "output": "Petti Petti has the abilities: UIPower 29.7% Attack (0SP) Resolve (1SP) Pinpoint (1SP) Body Slam (2SP)."}
+{"instruction": "What role does MelvEti Melv'eti have?", "input": "", "output": "MelvEti Melv'eti is a support familiar."}
+{"instruction": "What abilities does MelvEti Melv'eti have?", "input": "", "output": "MelvEti Melv'eti has the abilities: UIPower 29.7% Attack (0SP) Bonk! (1SP) Heal Trauma (1SP) Healing Slam (1SP)."}
+{"instruction": "What role does Yingo Yingo have?", "input": "", "output": "Yingo Yingo is a dps familiar."}
+{"instruction": "What abilities does Yingo Yingo have?", "input": "", "output": "Yingo Yingo has the abilities: UIPower 44% Attack (0SP) Heal (1SP) Magic Strike (1SP) Destroy (1SP)."}
+{"instruction": "What role does Yackerz Yackerz have?", "input": "", "output": "Yackerz Yackerz is a tank familiar."}
+{"instruction": "What abilities does Yackerz Yackerz have?", "input": "", "output": "Yackerz Yackerz has the abilities: UIPower 47.5% Attack (0SP) Resolve (0SP) Inspire (1SP) Slam (1SP) Head Bump (2SP)."}
+{"instruction": "What role does Harchie Harchie have?", "input": "", "output": "Harchie Harchie is a dps familiar."}
+{"instruction": "What abilities does Harchie Harchie have?", "input": "", "output": "Harchie Harchie has the abilities: UIPower 21.2% Attack (0SP) Precision Shot (1SP) Snipe (1SP)."}
+{"instruction": "What role does NosStorVo NosStorVo have?", "input": "", "output": "NosStorVo NosStorVo is a tank familiar."}
+{"instruction": "What abilities does NosStorVo NosStorVo have?", "input": "", "output": "NosStorVo NosStorVo has the abilities: UIPower 28.5% Attack (0SP) Rip (1SP) Harvest (1SP) Mangle (2SP) Head Bump (2SP)."}
+{"instruction": "What role does Blimb Blimb have?", "input": "", "output": "Blimb Blimb is a dps familiar."}
+{"instruction": "What abilities does Blimb Blimb have?", "input": "", "output": "Blimb Blimb has the abilities: UIPower 36.4% Attack (0SP) Bonk! (1SP) Ug! (1SP) Gamble (1SP) Oof! (2SP)."}
+{"instruction": "What role does Vionot Vionot have?", "input": "", "output": "Vionot Vionot is a tank familiar."}
+{"instruction": "What abilities does Vionot Vionot have?", "input": "", "output": "Vionot Vionot has the abilities: UIPower 28.5% Attack (0SP) Hack (1SP) Resolve (1SP) Healing Light (?SP) Eliminate (2SP)."}
+{"instruction": "What role does Prof Pajama Prof. Pajama have?", "input": "", "output": "Prof Pajama Prof. Pajama is a tank familiar."}
+{"instruction": "What abilities does Prof Pajama Prof. Pajama have?", "input": "", "output": "Prof Pajama Prof. Pajama has the abilities: UIPower 41.2% Attack (0SP) Resolve (0SP) Paper Cut (1SP)."}
+{"instruction": "What role does Bronsie Bronsie have?", "input": "", "output": "Bronsie Bronsie is a tank familiar."}
+{"instruction": "What abilities does Bronsie Bronsie have?", "input": "", "output": "Bronsie Bronsie has the abilities: UIPower 39.7% Attack (0SP) Oof! (1SP) Ug! (1SP) Body Slam (2SP)."}
+{"instruction": "What role does Smixy Smixy have?", "input": "", "output": "Smixy Smixy is a dps familiar."}
+{"instruction": "What abilities does Smixy Smixy have?", "input": "", "output": "Smixy Smixy has the abilities: UIPower 25.5% Attack (0SP) Arcane Strike (1SP) Illumina (1SP) Eliminate (2SP)."}
+{"instruction": "What role does GrampaHef Grampa Hef have?", "input": "", "output": "GrampaHef Grampa Hef is a tank familiar."}
+{"instruction": "What abilities does GrampaHef Grampa Hef have?", "input": "", "output": "GrampaHef Grampa Hef has the abilities: UIPower 43.3% Attack (0SP) Resolve (0SP) Health Stomp (0SP) Cane Smack (1SP) Shred (2SP) Crush (2SP)."}
+{"instruction": "What role does Gobbex Gobbex have?", "input": "", "output": "Gobbex Gobbex is a support familiar."}
+{"instruction": "What abilities does Gobbex Gobbex have?", "input": "", "output": "Gobbex Gobbex has the abilities: UIPower 20.6% Eliminate (0SP) Inspire (0SP) Regenerate (1SP) Destroy (2SP) Recharge (2SP)."}
+{"instruction": "What role does Drogix Drogix have?", "input": "", "output": "Drogix Drogix is a tank familiar."}
+{"instruction": "What abilities does Drogix Drogix have?", "input": "", "output": "Drogix Drogix has the abilities: UIPower 32.5% Attack (0SP) Recharge (0SP) Mangle (1SP)."}
+{"instruction": "What role does Iveki Iveki have?", "input": "", "output": "Iveki Iveki is a dps familiar."}
+{"instruction": "What abilities does Iveki Iveki have?", "input": "", "output": "Iveki Iveki has the abilities: UIPower 36.3% Attack (0SP) Life Steal (1SP) Harvest (1SP)."}
+{"instruction": "What role does Gemor Gemor have?", "input": "", "output": "Gemor Gemor is a tank familiar."}
+{"instruction": "What abilities does Gemor Gemor have?", "input": "", "output": "Gemor Gemor has the abilities: UIPower 14.3% Attack (0SP) Recharge (0SP) Quick Punch (1SP) Flex (1SP) Cheap Shot (2SP)."}
+{"instruction": "What role does Blublix Blublix have?", "input": "", "output": "Blublix Blublix is a dps familiar."}
+{"instruction": "What abilities does Blublix Blublix have?", "input": "", "output": "Blublix Blublix has the abilities: UIPower 60.2% Attack (0SP) Infect (0SP) Healing Slam (1SP) Body Slam (1SP) Crush (2SP)."}
+{"instruction": "What role does Brutow Brutow have?", "input": "", "output": "Brutow Brutow is a tank familiar."}
+{"instruction": "What abilities does Brutow Brutow have?", "input": "", "output": "Brutow Brutow has the abilities: UIPower 11.3% Attack (0SP) Oof! (1SP) Ug! (1SP) Healing Slam (2SP)."}
+{"instruction": "What role does Marnerys Marnerys have?", "input": "", "output": "Marnerys Marnerys is a dps familiar."}
+{"instruction": "What abilities does Marnerys Marnerys have?", "input": "", "output": "Marnerys Marnerys has the abilities: UIPower 25.5% Attack (0SP) Eliminate (0SP) Restore (1SP) Rage (1SP)."}
+{"instruction": "What role does Drafgin Drafgin have?", "input": "", "output": "Drafgin Drafgin is a dps familiar."}
+{"instruction": "What abilities does Drafgin Drafgin have?", "input": "", "output": "Drafgin Drafgin has the abilities: UIPower 55.5% Attack (0SP) Beam (0SP) Flutter (1SP) Heave (1SP) Destroy (2SP)."}
+{"instruction": "What role does Mowhi Mowhi have?", "input": "", "output": "Mowhi Mowhi is a dps familiar."}
+{"instruction": "What abilities does Mowhi Mowhi have?", "input": "", "output": "Mowhi Mowhi has the abilities: UIPower 51.3% Attack (0SP) Hack (0SP) Impale (1SP) Maim (1SP) Death Touch (2SP)."}
+{"instruction": "What role does Hurgy Hurgy have?", "input": "", "output": "Hurgy Hurgy is a dps familiar."}
+{"instruction": "What abilities does Hurgy Hurgy have?", "input": "", "output": "Hurgy Hurgy has the abilities: UIPower 31.3% Attack (0SP) Blight (1SP) Recharge (1SP)."}
+{"instruction": "What role does Rokely Rokely have?", "input": "", "output": "Rokely Rokely is a tank familiar."}
+{"instruction": "What abilities does Rokely Rokely have?", "input": "", "output": "Rokely Rokely has the abilities: UIPower 12.8% Attack (0SP) Restore (1SP) Resolve (1SP) Pinpoint (2SP)."}
+{"instruction": "What role does Hebbo Hebbo have?", "input": "", "output": "Hebbo Hebbo is a tank familiar."}
+{"instruction": "What abilities does Hebbo Hebbo have?", "input": "", "output": "Hebbo Hebbo has the abilities: UIPower 32.6% Attack (0SP) Crush (1SP) Isolate (1SP) Rage(3SP)."}
+{"instruction": "What role does Wizbot Wizbot have?", "input": "", "output": "Wizbot Wizbot is a dps familiar."}
+{"instruction": "What abilities does Wizbot Wizbot have?", "input": "", "output": "Wizbot Wizbot has the abilities: UIPower 38% Attack (0SP) Power Drain (1SP) Recharge (1SP) Cheap Shot (2SP) Gamble (2SP)."}
+{"instruction": "What role does Emdus Emdus have?", "input": "", "output": "Emdus Emdus is a tank familiar."}
+{"instruction": "What abilities does Emdus Emdus have?", "input": "", "output": "Emdus Emdus has the abilities: UIPower 43.8% Attack (0SP) Impale (1SP) Recharge (1SP)."}
+{"instruction": "What role does Contan Contan have?", "input": "", "output": "Contan Contan is a dps familiar."}
+{"instruction": "What abilities does Contan Contan have?", "input": "", "output": "Contan Contan has the abilities: UIPower 51.2% Attack (0SP) Slam (1SP) Rage (1SP)."}
+{"instruction": "What role does CaptGladbeard Capt. Gladbeard have?", "input": "", "output": "CaptGladbeard Capt. Gladbeard is a dps familiar."}
+{"instruction": "What abilities does CaptGladbeard Capt. Gladbeard have?", "input": "", "output": "CaptGladbeard Capt. Gladbeard has the abilities: UIPower 57% Attack (0SP) Flog (1SP) Pillage (1SP) Heal (2SP) Execute (2SP)."}
+{"instruction": "What role does Astamus Astamus have?", "input": "", "output": "Astamus Astamus is a dps familiar."}
+{"instruction": "What abilities does Astamus Astamus have?", "input": "", "output": "Astamus Astamus has the abilities: UIPower 45.2% Double Time (0SP) Shred (1SP) Harvest (1SP) Death Touch (2SP) Eliminate (2SP) Isolate (2SP)."}
+{"instruction": "What role does Gobelros Gobelros have?", "input": "", "output": "Gobelros Gobelros is a dps familiar."}
+{"instruction": "What abilities does Gobelros Gobelros have?", "input": "", "output": "Gobelros Gobelros has the abilities: UIPower 35% Attack (0SP) Gobble (1SP) Strike (1SP) Destroy (2SP) Regenerate (2SP)."}
+{"instruction": "What role does Krozy Krozy have?", "input": "", "output": "Krozy Krozy is a support familiar."}
+{"instruction": "What abilities does Krozy Krozy have?", "input": "", "output": "Krozy Krozy has the abilities: UIPower 28.3% Clauco Bite (0SP) Darkness Princess (1SP) Merry Pason (2SP)."}
+{"instruction": "What role does Sleti Sleti have?", "input": "", "output": "Sleti Sleti is a tank familiar."}
+{"instruction": "What abilities does Sleti Sleti have?", "input": "", "output": "Sleti Sleti has the abilities: UIPower 20% Rimshot (0SP) November Drain (1SP) Double Bass Mess (1SP) Solid Solo (2SP)."}
+{"instruction": "What role does Stromp Stromp have?", "input": "", "output": "Stromp Stromp is a dps familiar."}
+{"instruction": "What abilities does Stromp Stromp have?", "input": "", "output": "Stromp Stromp has the abilities: UIPower 33.7% Rockard (0SP) Hole Like a Head (1SP) The Beautiful Slap (1SP) Echoplexer (2SP)."}
+{"instruction": "What role does Oeviss Oeviss have?", "input": "", "output": "Oeviss Oeviss is a dps familiar."}
+{"instruction": "What abilities does Oeviss Oeviss have?", "input": "", "output": "Oeviss Oeviss has the abilities: UIPower 40% Saturday Night Stomp (0SP) The Drooper (1SP) Charlie's Bike Crash(1SP) Bizaarr Attitide (2SP) Pogo Heart (2SP)."}
+{"instruction": "What role does Swice Swice have?", "input": "", "output": "Swice Swice is a tank familiar."}
+{"instruction": "What abilities does Swice Swice have?", "input": "", "output": "Swice Swice has the abilities: UIPower 22.7% O! (0SP) Fa BBQ (1SP) Historyka (2SP)."}
+{"instruction": "What role does Blinka Blinka have?", "input": "", "output": "Blinka Blinka is a support familiar."}
+{"instruction": "What abilities does Blinka Blinka have?", "input": "", "output": "Blinka Blinka has the abilities: UIPower 32% Racater (0SP) Unbreaker (1SP) Pizza Spirit (1SP) Titu's Comeback (2SP)."}
+{"instruction": "What role does Mxo MXO have?", "input": "", "output": "Mxo MXO is a dps familiar."}
+{"instruction": "What abilities does Mxo MXO have?", "input": "", "output": "Mxo MXO has the abilities: UIPower 34.2% Kings of the Hill (0SP) Smoothie (1SP) Jackpot (1SP) Purest Love (2SP)."}
+{"instruction": "What role does B75 B-75 have?", "input": "", "output": "B75 B-75 is a tank familiar."}
+{"instruction": "What abilities does B75 B-75 have?", "input": "", "output": "B75 B-75 has the abilities: UIPower 49% Conjuration (0SP) Little Stories (1SP) Pressed Square (1SP) Pretty Bingo (2SP) Ale's Pizza (2SP)."}
+{"instruction": "What role does KrTy Kr Ty have?", "input": "", "output": "KrTy Kr Ty is a dps familiar."}
+{"instruction": "What abilities does KrTy Kr Ty have?", "input": "", "output": "KrTy Kr Ty has the abilities: UIPower 25% Given to Bite (0SP) Jeremias Shoot (1SP) Pinkapop 92 (2SP)."}
+{"instruction": "What role does Vomon Vomon have?", "input": "", "output": "Vomon Vomon is a tank familiar."}
+{"instruction": "What abilities does Vomon Vomon have?", "input": "", "output": "Vomon Vomon has the abilities: UIPower 26% Sumo Luke Pogo (0SP) Breaking Awavers (1SP) Old Vinegars (1SP) Tiger's Eve (2SP) City Destroyer Twister (2SP)."}
+{"instruction": "What role does Bonbonk Bonbonk have?", "input": "", "output": "Bonbonk Bonbonk is a tank familiar."}
+{"instruction": "What abilities does Bonbonk Bonbonk have?", "input": "", "output": "Bonbonk Bonbonk has the abilities: UIPower 31.3% Eye of Destruction (0SP) Galvanizer (0SP) MAHM (1SP) Block Rockin' Hits (1SP) Horse Powa (2SP)."}
+{"instruction": "What role does Sonord Sonord have?", "input": "", "output": "Sonord Sonord is a tank familiar."}
+{"instruction": "What abilities does Sonord Sonord have?", "input": "", "output": "Sonord Sonord has the abilities: UIPower 36% Death and Devil's Balad (0SP) Rock'n roll Charge(1SP) Puddle Dodger(1SP) All Pusher Wind (2SP) Hill's Poison (2SP)."}
+{"instruction": "What role does Dabird Dabird have?", "input": "", "output": "Dabird Dabird is a tank familiar."}
+{"instruction": "What abilities does Dabird Dabird have?", "input": "", "output": "Dabird Dabird has the abilities: UIPower 25% Black Paint (0SP) Sticky Fingers (1SP) Red Tongue Protection (1SP) Shelter Giver (2SP)."}
+{"instruction": "What role does Drelvy Drelvy have?", "input": "", "output": "Drelvy Drelvy is a tank familiar."}
+{"instruction": "What abilities does Drelvy Drelvy have?", "input": "", "output": "Drelvy Drelvy has the abilities: UIPower 25% Dust Biter (0SP) Bango (1SP) Show Must Live On (0SP) Spring Voice (1SP) Oh Mother (2SP)."}
+{"instruction": "What role does Quirn Quirn have?", "input": "", "output": "Quirn Quirn is a support familiar."}
+{"instruction": "What abilities does Quirn Quirn have?", "input": "", "output": "Quirn Quirn has the abilities: UIPower 40% Yellow SubSmack (0SP) Gravity Drop (1SP) Eleaby Rignor (2SP) Balbi's Blackbird (2SP) The Day Before Today (4SP)."}
+{"instruction": "What does it take to make Daking Daking?", "input": "", "output": "Daking Daking is fused by combining Example 1: the Shrampz schematic (using Shrump + Grampz) can be obtained from (Zone 1/Dungeon 2) Z1D2 (Shrump location), Z1D4 (contains all Z1 familiars), Z2D2 (Grampz location), and Z2D4 (contains all Z2 familiars).."}
+{"instruction": "What role does Daking Daking have?", "input": "", "output": "Daking Daking is a dps familiar."}
+{"instruction": "What abilities does Daking Daking have?", "input": "", "output": "Daking Daking has the abilities: UIPower 36% Rage of the king (0SP) Chorus of healing (0SP) Deadly note (1SP) Mystical song (1SP) Last song (2SP) The king is not dead (2SP)."}

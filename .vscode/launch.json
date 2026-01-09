@@ -1,0 +1,39 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Run Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Python: Run Current File (Chroma args)",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "args": [
+        "--rag-dir", "c:/Playground/llm-finetune/finetunes/rag",
+        "--persist-dir", "c:/Playground/ai-eng/data/chroma_db"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "build_chroma_index",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/ai-eng/util/build_chroma_index.py",
+      "args": [
+        "--rag-dir", "c:/Playground/llm-finetune/finetunes/rag",
+        "--persist-dir", "c:/Playground/ai-eng/data/chroma_db"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}

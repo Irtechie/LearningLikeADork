@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.so
+*.pkl
+
+# Environments
+.venv/
+ai-eng/.venv/
+scripts/unsloth/venv/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local logs
+log.txt
+file_tree.txt
+
+# Artifacts / large data
+experiments/
+data/chroma/
+data/models/**
+ai-eng/eval/results/
+
+# Keep documentation stubs
+!data/models/README.md

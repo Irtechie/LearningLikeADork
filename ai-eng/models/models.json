@@ -1,0 +1,26 @@
+{
+  "fast": {
+    "path": "C:\\Playground\\data\\models\\local\\fast\\llama4-scout-17b-4bit",
+    "adapter": "adapters.hf.local_hf_llamascout.LocalHFAdapter"
+  },
+  "reasoning": {
+    "path": "C:\\Playground\\data\\models\\local\\reasoning\\deepseek-r1-qwen-14b-4bit",
+    "adapter": "adapters.hf.local_hf_deepseekr1.LocalHFAdapter"
+  },
+  "performance": {
+    "path": "C:\\Playground\\data\\models\\local\\performance\\qwen3-14b-4bit",
+    "adapter": "adapters.hf.local_hf_qwen3.LocalHFAdapter"
+  },
+  "full": {
+    "path": "C:\\Playground\\data\\models\\local\\full\\qwen2.5-3b-instruct",
+    "adapter": "adapters.hf.local_hf_full.LocalHFAdapter"
+  },
+  "small": {
+    "path": "C:\\Playground\\data\\models\\local\\small\\mistral-7b-instruct-4bit",
+    "adapter": "adapters.hf.local_hf_mistral7b.LocalHFAdapter"
+  },
+  "tiny": {
+    "path": "C:\\Playground\\data\\models\\local\\tiny\\qwen2.5-3b-instruct-4bit",
+    "adapter": "adapters.hf.local_hf_qwen25.LocalHFAdapter"
+  }
+}
